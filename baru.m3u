@@ -1,5 +1,27 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="⛔.:© 2026 ApisTECH:. Playlist Gratis Tidak Diperjualbelikan!⛔" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
+#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Indonesia",Trans7 (Server 1)
+#EXTVLCOPT:http-user-agent=FaaeTV-Secret-2024
+#EXTVLCOPT:http-header=X-Faae-Auth: FaaeTV-Secret-2024
+http://103.93.163.107:3000/?trans=trans7
+
+#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Indonesia",Trans7 (Server 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20 Dalvik/2.1.0 (Linux; U; Android 10; Xstream Build/QKQ1.190828.002)
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
+
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" group-title="Indonesia",TransTV (Server 1)
+#EXTVLCOPT:http-user-agent=FaaeTV-Secret-2024
+#EXTVLCOPT:http-header=X-Faae-Auth: FaaeTV-Secret-2024
+http://103.93.163.107:3000/?trans=transtv
+
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" group-title="Indonesia",TransTV (Server 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20 Dalvik/2.1.0 (Linux; U; Android 10; Xstream Build/QKQ1.190828.002)
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd
+
 #EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
