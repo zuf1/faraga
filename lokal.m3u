@@ -1,74 +1,5 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="⛔.:© 2026 ApisTECH:. Playlist Gratis Tidak Diperjualbelikan!⛔" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",METRO TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch101.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",GARUDA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch104.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",VTV HD
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVONE
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch109.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",MAGNA
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch111.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",BN TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch112.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch113.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch114.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD1
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch116.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD2
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch117.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD3
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch118.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD4
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch119.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD5
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch120.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD6
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch121.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD7
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch122.m3u8
-
-
-
-
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -207,3 +138,47 @@ https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch101.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",GARUDA TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch104.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",VTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",TVONE
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch109.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",MAGNA
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch111.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",BN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch112.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",TVRI
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch113.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",TVRI WORLD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch114.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",JAGANTARA TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch119.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="FREE SLOW",TVRI WORLD5
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch120.m3u8
+
+
