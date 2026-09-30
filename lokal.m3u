@@ -11,7 +11,7 @@ https://flv.intechmedia.net/live/ch101.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch104.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",VTV HD6
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",VTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
@@ -19,30 +19,49 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch109.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVONE1
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch110.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVONE2
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",MAGNA
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch111.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVONE3
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",BN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVONE4
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch113.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVONE5
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch114.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVONE6
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD1
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch115.m3u8
+https://flv.intechmedia.net/live/ch116.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch117.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD3
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch118.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD4
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch119.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD5
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch120.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD6
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch121.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="NASIONAL",TVRI WORLD7
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch122.m3u8
 
 
 
