@@ -40,8 +40,19 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=204&type=drm
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="Nasional",SCTV
+https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="Nasional",SCTV 2
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-id="SinPoTV.id@HD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png",SindoNews
