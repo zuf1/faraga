@@ -323,6 +323,7 @@ https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg
 https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovering-china.jpg" group-title="Knowledge",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovering-china.jpg" group-title="Knowledge",Discovering China 2
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 
 
