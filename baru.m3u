@@ -1518,7 +1518,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",CBS SPORTS (NITRO)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93zLXbIwTP8eOsh-0O6nsMG3SqeIuC8WneHWrZR0U3Z5eKUENc6YONZI&s=10" group-title="⭐⭐SPORTS⭐⭐",CBS SPORTS (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1735,7 +1735,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",CBS SPORT (NITRO)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93zLXbIwTP8eOsh-0O6nsMG3SqeIuC8WneHWrZR0U3Z5eKUENc6YONZI&s=10" group-title="⭐⭐SPORTS⭐⭐",CBS SPORT (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #========================================================  ====================================================================
@@ -1846,12 +1846,7 @@ https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd
 
 #========================================================  ====================================================================
 
-#EXTINF:-1 tvg-id="DAZN1" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzan_nkRisBWdBX0WdMP_UUYpUVBonbslwjwSRaDbGqw&s=10",DAZN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://api.ifnextgen.xyz/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl1&type=m3u8
-
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="⭐⭐SPORTS⭐⭐",DAZN 2
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="⭐⭐SPORTS⭐⭐",DAZN RISE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4
@@ -2079,8 +2074,7 @@ https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-1-nz.png" group-title="⭐⭐SPORTS⭐⭐",SKY SPORT 1 NZ (TMAXAPP)
 http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
-###https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-2-nz.png" group-title="⭐⭐SPORTS⭐⭐",SKY SPORT 2 NZ (TMAXAPP)
 http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
@@ -2118,8 +2112,8 @@ https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8
 
 #========================================================  ====================================================================
 
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="⭐⭐SPORTS⭐⭐",BeIN Sports Xtra
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="⭐⭐SPORTS⭐⭐",BeIN Sports Xtra 1080
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="⭐⭐SPORTS⭐⭐",BeIN Sports Xtra
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="⭐⭐SPORTS⭐⭐",BeIN Sports Xtra 720
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
