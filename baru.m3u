@@ -1141,7 +1141,7 @@ https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fj
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="⭐⭐SPORTS⭐⭐",FORMULA 1 TV (NITRO)
+#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="⭐⭐SPORTS⭐⭐",FORMULA 1 TV (NITRO)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
