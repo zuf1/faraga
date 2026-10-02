@@ -1088,120 +1088,9 @@ https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
-#========================================================  ====================================================================
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.py
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.py/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="⭐SPORTS⭐",EUROSPORT 1 (ZAPITY)
-https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.py
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.py/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="⭐SPORTS⭐",EUROSPORT 2 (ZAPITY)
-https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.py
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.py/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=5fc8da8b94c447468ffe392157f8c75e&key=333b934fdde4c1ee87e7f1c5dac4cb8f
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="⭐SPORTS⭐",LA LIGA HYPERMOTION 3 (ZAPITY)
-https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.py
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.py/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="⭐SPORTS⭐",SKY BUNDES LIGA (IZZIGO)
-https://zap-live4-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.py
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.py/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://results.femon.net/?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="⭐SPORTS⭐",SKY LA LIGA (IZZIGO)
-https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
-
-#========================================================  ====================================================================
-
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",SPORTV 1
-http://177.52.24.163/SPORTV-1-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",SPORTV 2
-http://177.52.24.163/SPORTV-2-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",SPORTV 3
-http://177.52.24.163/SPORTV-3-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",ESPN 1
-http://177.52.24.163/ESPN-1-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",ESPN 2
-http://177.52.24.163/ESPN-2-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",ESPN 3
-http://177.52.24.163/ESPN-3-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",ESPN 4
-http://177.52.24.163/ESPN-4-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",ESPN 5
-http://177.52.24.163/ESPN-5-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",PREMIERE 1
-http://177.52.24.163/PREMIERE-1-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",PREMIERE 2
-http://177.52.24.163/PREMIERE-2-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",PREMIERE 3
-http://177.52.24.163/PREMIERE-3-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",PREMIERE 4
-http://177.52.24.163/PREMIERE-4-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",PREMIERE 5
-http://177.52.24.163/PREMIERE-5-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",PREMIERE 6
-http://177.52.24.163/PREMIERE-6-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",PREMIERE 7
-http://177.52.24.163/PREMIERE-7-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⭐SPORTS⭐",PREMIERE 8
-http://177.52.24.163/PREMIERE-8-HD/index.m3u8
 
 #======================================================== ARABIC ====================================================================
 
-#EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="⭐SPORTS⭐", AL KASS 1
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-
-#EXTINF:-1 tvg-id="2023 Alkass 2.qa" tvg-logo="https://i.ibb.co.com/m9WKtjB/kass2.png" group-title="⭐SPORTS⭐", AL KASS 2
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-
-#EXTINF:-1 tvg-id="2023 Alkass 3.qa" tvg-logo="https://i.ibb.co.com/tw6nR1k/kass3.png" group-title="⭐SPORTS⭐", AL KASS 3
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-
-#EXTINF:-1 tvg-id="2023 Alkass 4.qa" tvg-logo="https://i.ibb.co.com/b2TpfKx/kass4.png" group-title="⭐SPORTS⭐", AL KASS 4
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-
-#EXTINF:-1 tvg-id="2023 Alkass 5.qa" tvg-logo="https://i.ibb.co.com/k57XRqD/kass5.png" group-title="⭐SPORTS⭐", AL KASS 5
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-
-#EXTINF:-1 tvg-id="2023 Alkass 6.qa" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="⭐SPORTS⭐", AL KASS 6
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-
-#EXTINF:-1 tvg-id="2023 Alkass 7.qa" tvg-logo="https://i.imgur.com/3eyHP3S.png" group-title="⭐SPORTS⭐", AL KASS 7
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-
-#EXTINF:-1 tvg-id="2023 Alkass SHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="⭐SPORTS⭐", AL SHOOF
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-
-#EXTINF:-1 tvg-id="2023 Alkass SHOOF 2.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" group-title="⭐SPORTS⭐", AL SHOOF 2
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="⭐SPORTS⭐",BAHRAIN SPORTS 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -1210,14 +1099,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="⭐SPORTS⭐",BAHRAIN SPORTS 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="⭐SPORTS⭐",Jordan Sport
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-http://93.184.10.248/JordanSport/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/D/yH/2972/Poster.png" group-title="⭐SPORTS⭐",Jordan Sport 2 [Geo-blocked]
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://jrtv-live.ercdn.net/learning2/learning2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="⭐SPORTS⭐",KTV Sport 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -1231,78 +1112,6 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="⭐SPORTS⭐",Sharjah Sports [Geo-blocked]
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
-#========================================================  ====================================================================
-
-#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="WORLD FISHING NETWORK" tvg-logo="http://epg.justco.cc/guide/logos/us/WorldFishingNetwork.us.png" group-title="⭐SPORTS⭐",WORLD FISHING NETWORK
-http://bgdc.live:25461/joak18@yahoo.com/5643956/4615
-#EXTINF:-1 tvg-id="worldpokertour.us" tvg-name="WORLD TOUR POKER" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="⭐SPORTS⭐",WORLD TOUR POKER
-http://bgdc.live:25461/joak18@yahoo.com/5643956/7659
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="⭐SPORTS⭐",CBS SPORTS
-http://bgdc.live:25461/joak18@yahoo.com/5643956/8459
-#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="Marquee Sports Network" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/marquee.png" group-title="⭐SPORTS⭐",Marquee Sports Network
-http://bgdc.live:25461/joak18@yahoo.com/5643956/8820
-#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="NESN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NESN.png" group-title="⭐SPORTS⭐",NESN
-http://bgdc.live:25461/joak18@yahoo.com/5643956/8821
-#EXTINF:-1 tvg-id="sportsnetpittsburgh.us" tvg-name="SPORTSNET PITTSBURGH" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/attttt.png" group-title="⭐SPORTS⭐",SPORTSNET PITTSBURGH
-http://bgdc.live:25461/joak18@yahoo.com/5643956/8825
-#EXTINF:-1 tvg-id="stadium.us" tvg-name="STADIUM STREAM" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Stadium_logo_2017.png" group-title="⭐SPORTS⭐",STADIUM STREAM
-http://bgdc.live:25461/joak18@yahoo.com/5643956/8826
-#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="YES NETWORK" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/yespinss.png" group-title="⭐SPORTS⭐",YES NETWORK
-http://bgdc.live:25461/joak18@yahoo.com/5643956/15079
-#EXTINF:-1 tvg-id="msg.us" tvg-name="MSG Sports Zone" tvg-logo="http://onlytimewilltell.xyz:2086/images/6e2baaf3b97dbeef01c0043275f9a0e7.png" group-title="⭐SPORTS⭐",MSG Sports Zone
-http://bgdc.live:25461/joak18@yahoo.com/5643956/15081
-#EXTINF:-1 tvg-id="msgsnplus.us" tvg-name="MSG Plus" tvg-logo="http://onlytimewilltell.xyz:2086/images/d9dd7dd44ebcfc4f306ad873759b25e9.png" group-title="⭐SPORTS⭐",MSG Plus
-http://bgdc.live:25461/joak18@yahoo.com/5643956/15082
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Tennis_Channel-2.png" group-title="⭐SPORTS⭐",Tennis Channel
-http://bgdc.live:25461/joak18@yahoo.com/5643956/24716
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="NBC GOLF CHANNEL" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/nbc-golf.png" group-title="⭐SPORTS⭐",NBC GOLF CHANNEL
-http://bgdc.live:25461/joak18@yahoo.com/5643956/37730
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="http://onlytimewilltell.xyz:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="⭐SPORTS⭐",ESPN2
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38227
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPNU" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPN_U.png" group-title="⭐SPORTS⭐",ESPNU
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38228
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="ESPNEWS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPNEWS_logo.png" group-title="⭐SPORTS⭐",ESPNEWS
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38229
-#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="ESPN ACCN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ACC_Network_ESPN.png" group-title="⭐SPORTS⭐",ESPN ACCN
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38233
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="ESPN BIG TEN " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Big_Ten_Network_28202029.png" group-title="⭐SPORTS⭐",ESPN BIG TEN 
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38234
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TSN1_new.png" group-title="⭐SPORTS⭐",TSN 1
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38236
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN2.png" group-title="⭐SPORTS⭐",TSN 2
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38237
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN3.png" group-title="⭐SPORTS⭐",TSN 3
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38238
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Tsn_4_ca.png" group-title="⭐SPORTS⭐",TSN 4
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38239
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN5.png" group-title="⭐SPORTS⭐",TSN 5
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38240
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/08/NFL.png" group-title="⭐SPORTS⭐",NFL NETWORK
-http://bgdc.live:25461/joak18@yahoo.com/5643956/40691
-#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="SportsNet Pittsburgh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/SportsNet_Pittsburgh_logo.png/520px-SportsNet_Pittsburgh_logo.png" group-title="⭐SPORTS⭐",SportsNet Pittsburgh
-http://bgdc.live:25461/joak18@yahoo.com/5643956/62829
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/outdoor.png" group-title="⭐SPORTS⭐",OUTDOOR CHANNEL
-http://bgdc.live:25461/joak18@yahoo.com/5643956/697
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="SPORTSMAN " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Sportsman_Channel.png" group-title="⭐SPORTS⭐",SPORTSMAN 
-http://bgdc.live:25461/joak18@yahoo.com/5643956/4608
-#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="PURSUIT " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/PursuitChannel.jpg" group-title="⭐SPORTS⭐",PURSUIT 
-http://bgdc.live:25461/joak18@yahoo.com/5643956/4612
-#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="MSG Sports Zone" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/msg-network-logo-png-transparent.png" group-title="⭐SPORTS⭐",MSG Sports Zone
-http://bgdc.live:25461/joak18@yahoo.com/5643956/15078
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPN-1.png" group-title="⭐SPORTS⭐",ESPN
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38226
-#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="ESPN SEC NETWORK" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/SEC-network-horizontal.png" group-title="⭐SPORTS⭐",ESPN SEC NETWORK
-http://bgdc.live:25461/joak18@yahoo.com/5643956/38232
-#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="SPORTSNET LA" tvg-logo="" group-title="⭐SPORTS⭐",SPORTSNET LA
-http://bgdc.live:25461/joak18@yahoo.com/5643956/58910
-#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="NBCS Philadelphia " tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/NBCsports911.png" group-title="⭐SPORTS⭐",NBCS Philadelphia 
-http://bgdc.live:25461/joak18@yahoo.com/5643956/31411
-
-#======================================================== END LIST ====================================================================
 
 
 //========================================================================
