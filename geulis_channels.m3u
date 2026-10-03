@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRANS7_2013.svg/300px-TRANS7_2013.svg.png" group-title="Indonesia",TRANS 7
+#EXTVLCOPT:http-referer=https://www.useetv.com/
+https://cdn.useetv.com/live/trans7/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAImh5Vt25_VOqGpFf4w0g8eIHZW1X4QP3ZPedAoo2JzV6n7T5AJxSo8Zn6VjAU-1yLZjfgPwOs0qcjtl9nd3MMgvi6rB3JSF6fJKJ1z6ar3VjdtIThDZjZchsC3au5hju43NN4XMg3VJ0QdsrT8zByvHXNxj6766EcDnxNdAb9CGh80YsyYeS92T890or/s700/TRANS%20TV.png" group-title="Indonesia",TRANS TV
+https://cdnjkt913.transvision.co.id:1003/live/master/108/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPNSDAw0J_1KUTTWxD400RaTRpov-Z9VaWRxdHTU8zmoiEMWSjl8LMcO03iVFkITClt35N6CZiZucK574BP3ZTGGrWm0sqwrLZoaoSKHXRerXRcN3yjn1hnEtcGuJMEoY0zh9zA1o7N84gnjYL8BImt4EAB6tpz5Ecm3wmFa1tcaUEsdi5sPtofKoYmTjS/s700/HITS.png" group-title="Entertainment",HITS
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RCTI_logo_2015.svg/300px-RCTI_logo_2015.svg.png" group-title="Indonesia",RCTI
+#EXTVLCOPT:http-user-agent=VisionPlus/Android
+https://linear-session.mncnow.id/rcti/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/MNCTV_logo_2010.svg/300px-MNCTV_logo_2010.svg.png" group-title="Indonesia",MNCTV
+#EXTVLCOPT:http-user-agent=VisionPlus/Android
+https://linear-session.mncnow.id/mnctv/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GTV_Indonesia_2017.svg/300px-GTV_Indonesia_2017.svg.png" group-title="Indonesia",GTV
+#EXTVLCOPT:http-user-agent=VisionPlus/Android
+https://linear-session.mncnow.id/gtv/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/INews_2017.svg/300px-INews_2017.svg.png" group-title="Indonesia",iNews
+#EXTVLCOPT:http-user-agent=VisionPlus/Android
+https://linear-session.mncnow.id/inews/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CNN_Indonesia.svg/300px-CNN_Indonesia.svg.png" group-title="Indonesia",CNN Indonesia
+https://cdn.useetv.com/live/cnn/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CNBC_Indonesia_logo.svg/300px-CNBC_Indonesia_logo.svg.png" group-title="Indonesia",CNBC INDONESIA
+https://cdn.useetv.com/live/cnbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" group-title="Blockbuster",HBO
+https://cdn.useetv.com/live/hbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/HBO_Hits_logo.svg/300px-HBO_Hits_logo.svg.png" group-title="Blockbuster",HBO HITS
+https://cdn.useetv.com/live/hbohits/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/HBO_Signature_logo.svg/300px-HBO_Signature_logo.svg.png" group-title="Blockbuster",HBO Signature
+https://cdn.useetv.com/live/hbosig/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/HBO_Family_2011.svg/300px-HBO_Family_2011.svg.png" group-title="Blockbuster",HBO Family
+https://cdn.useetv.com/live/hbofam/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Warner_TV_2016.svg/300px-Warner_TV_2016.svg.png" group-title="Blockbuster",Warner TV
+https://cdn.useetv.com/live/warnertv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cinemax_2011_logo.svg/300px-Cinemax_2011_logo.svg.png" group-title="Blockbuster",CINEMAX
+https://cdn.useetv.com/live/cinemax/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/MNX_Logo.png/300px-MNX_Logo.png" group-title="Blockbuster",MNX Hollywood's Wildchild
+https://cdn.useetv.com/live/mnx/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Movies_Now_logo.png/300px-Movies_Now_logo.png" group-title="Blockbuster",MOVIES NOW
+https://cdn.useetv.com/live/moviesnow/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/SPOTV_logo.svg/300px-SPOTV_logo.svg.png" group-title="Sports",SPOTV
+https://cdn.useetv.com/live/spotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SPOTV2_logo.svg/300px-SPOTV2_logo.svg.png" group-title="Sports",SPOTV 2
+https://cdn.useetv.com/live/spotv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BeIN_Sports_1.svg/300px-BeIN_Sports_1.svg.png" group-title="Sports",beIN Sports 1
+https://cdn.useetv.com/live/beinsports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Broadcast_Tower_Flat_Icon.svg/300px-Broadcast_Tower_Flat_Icon.svg.png" group-title="Events",GEULIS Special Event 1
+https://cdn.useetv.com/live/event1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+https://cdn.useetv.com/live/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2023.svg/300px-Nickelodeon_2023.svg.png" group-title="Kids",Nickelodeon
+https://cdn.useetv.com/live/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Discovery_Channel_2019.svg/300px-Discovery_Channel_2019.svg.png" group-title="Knowledge",Discovery Channel
+https://cdn.useetv.com/live/discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National_Geographic_Logo.svg/300px-National_Geographic_Logo.svg.png" group-title="Knowledge",National Geographic
+https://cdn.useetv.com/live/natgeo/index.m3u8
