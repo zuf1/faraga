@@ -333,36 +333,26 @@ https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax
 https://cdnbal1.indihometv.com/atm/DASH/animax/animax-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetkids.png",Biznet Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="My.Kidz.id" tvg-name="My Kidz" tvg-logo="https://mimipipi22.github.io/logo/kids/mykidz.jpg" group-title="Kids",MY KIDZ
 https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
 #EXTINF:-1 tvg-id="MyKidz.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png",My Kidz SD
 https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="BoomerangAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",Cartoonito
-https://cdnbal1.indihometv.com/atm/DASH/boomerang/manifest.mpd
 #EXTINF:0, tvg-id="MoonbugKids.uk@SD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moonbug%20kids.png" group-title="Kids", MOONBUG
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies
 https://cdnbal1.indihometv.com/atm/DASH/cbeebies/cbeebies-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dreamworks.png",DreamWorks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
 
-#EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 #EXTINF:-1 tvg-id="MAXKids.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",MAXKids
-https://cdnbal1.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nick.png",Nickelodeon
 https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/nickelodeon-avc1_2500000=7-3277707030000000.mpd
+
+#### kidz kosong ####
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetkids.png",Biznet Kids
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dreamworks.png",DreamWorks
+#EXTINF:-1 tvg-id="BoomerangAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",Cartoonito
+#EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
+
 
 # movie drakor #
 
