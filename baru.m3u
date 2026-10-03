@@ -10,12 +10,12 @@ ASIAN GAMES AICHI NAGOYA 2026
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
-#EXTINF:-1 group-title="ASIAN GAMES" tvg-id="840096" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 02 A |15 SEPT-04 OKT 2026|
+#EXTINF:-1 group-title="ASIAN GAMES" tvg-id="840096" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 01 -A |15 SEPT-04 OKT 2026|
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5320002ff03f4ea6ae65d34c73dadffc:ceded974d6e129a623b25fe296e80f03
 https://tglmp03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#EXTINF:-1 group-title="ASIAN GAMES" tvg-id="822074" tvg-logo="https://i.imgur.com/0WKr4YP.png" , CHANNEL 02 A|15 SEPT-04 OKT 2026|
+#EXTINF:-1 group-title="ASIAN GAMES" tvg-id="822074" tvg-logo="https://i.imgur.com/0WKr4YP.png" , CHANNEL 02 |15 SEPT-04 OKT 2026|
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
 https://tglmp01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
@@ -40,7 +40,7 @@ https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
 https://tglmp04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
 
-#EXTINF:-1  group-title="ASIAN GAMES" tvg-id="580750" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 04 |15 SEPT-04 OKT 2026|
+#EXTINF:-1  group-title="ASIAN GAMES" tvg-id="580750" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 04 AB |15 SEPT-04 OKT 2026|
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
