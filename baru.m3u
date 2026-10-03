@@ -20,7 +20,7 @@ https://tglmp03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
 https://tglmp01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
 
-#EXTINF:-1  group-title="ASIAN GAMES" tvg-id="576060" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 03 |15 SEPT-04 OKT 2026|
+#EXTINF:-1  group-title="ASIAN GAMES" tvg-id="576060" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 02 |15 SEPT-04 OKT 2026|
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
@@ -30,7 +30,7 @@ https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=3c5c5b09258444808d7e17f66677ed4a:95f2bca693bca97c2b18bd726bb7b427
 https://tglmp02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
 
-#EXTINF:-1  group-title="ASIAN GAMES" tvg-id="576061" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 04 |15 SEPT-04 OKT 2026|
+#EXTINF:-1  group-title="ASIAN GAMES" tvg-id="576061" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 03 AB |15 SEPT-04 OKT 2026|
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
