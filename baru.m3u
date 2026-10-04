@@ -571,6 +571,28 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+=======Dsport====
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png",DSPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png",DSPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png",DSPORTS +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+https://otte.cache.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+
+
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV 1 PH (Server 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
@@ -693,6 +715,8 @@ https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/WHRyZW0gU3BvcnRz/manifest.mpd?signature=YWZkM2Q1NGEzYjU1NjYyMjExZWI5ODU5ZDEyOWMzMzY=&time=77777777777&device_id=3j8SeGidyKb-X89VxKrBUenGK_a0Niuo0wSySlIMjqKneBN4BQ
+
+
 
 
 
@@ -2262,107 +2286,72 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&ex
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 1
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/250px-Logo_bein_sports_1.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BeIN Sports TR 1
 #EXTGRP:LIVE | LIGA INGGRIS
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 2
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/250px-Logo_bein_sports_2.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BeIN Sports TR 2
 #EXTGRP:LIVE | LIGA INGGRIS
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 3
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/250px-Logo_bein_sports_3.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BeIN Sports TR 3
 #EXTGRP:LIVE | LIGA INGGRIS
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 4
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1280px-Logo_bein_sports_4.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",BeIN Sports TR 4
 #EXTGRP:LIVE | LIGA INGGRIS
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10",BeIN Sports TR 5
 #EXTGRP:LIVE | LIGA INGGRIS
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 1 (BRN)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/250px-Logo_bein_sports_1.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BEIN SPORTS 1 (BRN)
 #EXTGRP:LIVE | LIGA INGGRIS
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 2 (BRN)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/250px-Logo_bein_sports_2.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BEIN SPORTS 2 (BRN)
 #EXTGRP:LIVE | LIGA INGGRIS
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 3 (BRN)
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/250px-Logo_bein_sports_3.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BEIN SPORTS 3 (BRN)
 #EXTGRP:LIVE | LIGA INGGRIS
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985129&extension=ts&play_token=TPQ8WmP7DF
 
-#EXTINF:-1 ttvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BEIN SPORTS 4 (BRN)
+#EXTINF:-1 ttvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1280px-Logo_bein_sports_4.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",BEIN SPORTS 4 (BRN)
 #EXTGRP:LIVE | LIGA INGGRIS
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985130&extension=ts&play_token=oFFcF0hSHZ
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 5 (BRN)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10",BEIN SPORTS 5 (BRN)
 #EXTGRP:LIVE | LIGA INGGRIS
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BEIN SPORTS 6 (BRN)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEZPagRhhkh7XAed7lspQx7BEgM8CmMQdm-3hllESRD5stcUHxWIL3ft1&s=10",BEIN SPORTS 6 (BRN)
 #EXTGRP:LIVE | LIGA INGGRIS
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985132&extension=ts&play_token=gADjKCMGWq
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BEIN SPORTS 7 (BRN)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVm_pVb_tTG_k_p56qJJjvzmgabWH9w_u_OJTPbGMWMA&s=10",BEIN SPORTS 7 (BRN)
 #EXTGRP:LIVE | LIGA INGGRIS
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985133&extension=ts&play_token=vn0lYlSzrp
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT PREMIER LEAGUE HD (RUTUBE)
-#EXTGRP:LIVE | LIGA INGGRIS
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",SKY SPORT PL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",SKY SPORT 7 NZ
 #EXTGRP:LIVE | LIGA INGGRIS
-https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport7nz.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 1 NZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",SKY SPORT 8 NZ
 #EXTGRP:LIVE | LIGA INGGRIS
-http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport8nz.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 2 NZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",SKY SPORT 9 NZ
 #EXTGRP:LIVE | LIGA INGGRIS
-http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 3 NZ
-#EXTGRP:LIVE | LIGA INGGRIS
-http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
-https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 4 NZ
-#EXTGRP:LIVE | LIGA INGGRIS
-http://45.12.32.190:8080/UK-SkySport4NZ/video.m3u8
-https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 5 NZ
-#EXTGRP:LIVE | LIGA INGGRIS
-##http://45.12.32.190:8080/UK-SkySport5NZ/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 6 NZ
-#EXTGRP:LIVE | LIGA INGGRIS
-https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 7 NZ
-#EXTGRP:LIVE | LIGA INGGRIS
-###https://tmaxapp.site/8wirwjs76erftg/skysport7nz.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 8 NZ
-#EXTGRP:LIVE | LIGA INGGRIS
-###https://tmaxapp.site/8wirwjs76erftg/skysport8nz.m3u8
-https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 9 NZ
-#EXTGRP:LIVE | LIGA INGGRIS
-###https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8
-https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8
