@@ -395,7 +395,7 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
 https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngfind.com/pngs/m/204-2047537_bbc-history-magazine-is-britains-biggest-selling-history.png" group-title="Knowledge",BBC History
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.bbc.co.uk/staticarchive/291c9e71622def44bd700f4a2f6135eef7c4cd63.jpg" group-title="Knowledge",BBC History
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
