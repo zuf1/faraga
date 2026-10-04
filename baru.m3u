@@ -2273,7 +2273,7 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&ex
 #EXTGRP:LIVE | LIGA INGGRIS
 ##http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zzWHP2Ys-UJEp8QlnS-bePItLNbe4bBIHJ0ZYwhhz1VabbFGhQwhO2U&s=10STAR SPORTS SELECT 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zzWHP2Ys-UJEp8QlnS-bePItLNbe4bBIHJ0ZYwhhz1VabbFGhQwhO2U&s=10",STAR SPORTS SELECT 2
 #EXTGRP:LIVE | LIGA INGGRIS
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
 
