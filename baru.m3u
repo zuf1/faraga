@@ -2265,15 +2265,15 @@ https://ott.djdoolky76.io/api/streams/283/manifest.m3u8?token=eyJhbGciOiJIUzI1Ni
 #EXTGRP:LIVE | LIGA INGGRIS
 https://ott.djdoolky76.io/api/streams/284/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",StarSports Selet 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_qMqpD0_sArRHI5j5Jzw5ib4tL9aDnELw8Ke6WDBAw&s=10",STAR SPORTS SELECT 1
 #EXTGRP:LIVE | LIGA INGGRIS
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
 
-#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",STAR SPORTS SELECT 1 FHD✅
+#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_qMqpD0_sArRHI5j5Jzw5ib4tL9aDnELw8Ke6WDBAw&s=10",STAR SPORTS SELECT 1 FHD✅
 #EXTGRP:LIVE | LIGA INGGRIS
 ##http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",StarSports Selet 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zzWHP2Ys-UJEp8QlnS-bePItLNbe4bBIHJ0ZYwhhz1VabbFGhQwhO2U&s=10STAR SPORTS SELECT 2
 #EXTGRP:LIVE | LIGA INGGRIS
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
 
