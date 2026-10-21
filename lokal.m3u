@@ -1728,13 +1728,13 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-#EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1" tvg-logo="https://i.ibb.co/jvS7zkgW/images.png" group-title="⭐⭐SPORTS⭐⭐",FANCODE 1 (NITRO)
+#EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1" tvg-logo="https://www.cricuspl.com/wp-content/uploads/2024/11/FanCode-Logo-2022_FanCode-OrangeOnTransarent.png" group-title="⭐⭐SPORTS⭐⭐",FANCODE 1 (NITRO)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-#EXTINF:-1 tvg-id="fancode2" tvg-name="FANCODE 2" tvg-logo="https://i.ibb.co/jvS7zkgW/images.png" group-title="⭐⭐SPORTS⭐⭐",FANCODE 2 (NITRO)
+#EXTINF:-1 tvg-id="fancode2" tvg-name="FANCODE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/FanCode_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="⭐⭐SPORTS⭐⭐",FANCODE 2 (NITRO)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 
