@@ -1,16 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indonesia.tv.xml,https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
 
 #######     EVENT    #####
-#EXTINF:-1 tvg-id="sport-7795d02b9141" tvg-name="Juventus vs Stade Rennais FC" tvg-logo="https://img.cltvap.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png" group-title="EVENT",[23:45] 22/10 ⚽ Juventus vs Stade Rennais FC  • UEFA Europa League [HLS]
-#EXTGRP:EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavang33.co/
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-id="sport-1bc18f632cfb" tvg-name="Juventus vs Stade Rennais FC" tvg-logo="https://img.cltvap.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png" group-title="EVENT",[23:45] 22/10 ⚽ Juventus vs Stade Rennais FC  • UEFA Europa League [FLV]
-#EXTGRP:EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavang33.co/
-https://live2.zktsva.app/live/294335.flv
+
 
 
 #####         NASIONAL        ###########
