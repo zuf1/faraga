@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indonesia.tv.xml,https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz"
 
-#EXTINF:-1 tvg-id="playlist-update" tvg-name="🕒 Cập nhật 20:31 22/10" group-title="EVENT",🕒 Cập nhật 20:31 22/10
-http://127.0.0.1/
+#######     EVENT    #####
+
 #EXTINF:-1 tvg-id="sport-510cbdde02cf" tvg-name="Madura United vs Persib Bandung" tvg-logo="https://img.cltvap.cc/football/team/320ff18ba51acdf34c92311dec8186a7.png" group-title="EVENT,🔴 [19:00] 22/10 ⚽ Madura United vs Persib Bandung (Gà Siêu Tồ) • Indonesian Super League [HLS]
 #EXTGRP:Gà Vàng 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
