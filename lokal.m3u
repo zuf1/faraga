@@ -167,6 +167,16 @@ https://ogietv.biz.id/Dimas01/bara01/1322.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cubmu.mikrofast.my.id/live/215/manifest.mpd
 
+#EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" tvg-uid="9b6e12f5293186586b8adbe67ac315b" data-source="Vididi Combi Termux" data-source="Manual" group-title="INDONESIA TV" tvg-id="204" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="Nasional",SCTV - Server 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=204&ext=drm&x=1792688697&k=e6e113c58c52a2ab06da9683324af5ea9f8b963d9ca5bb084b8cbb21884d593b
+https://vididi.bonetv.biz.id/index.mpd?q=204&ext=dash&x=1792688697&k=72ecb950c560e39b3c793a8710bf275311dda40205c222b1b4e6b0d95a74a3c2&sc=204
+
+
 #EXTINF:-1 tvg-id="SinPoTV.id@HD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
 
 #EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png",SindoNews
