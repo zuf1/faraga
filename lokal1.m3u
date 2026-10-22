@@ -1,14 +1,369 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="⛔.:© 2026 ApisTECH:. Playlist Gratis Tidak Diperjualbelikan!⛔" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
+#EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="INDONESIA TV" tvg-id="782" tvg-logo="https://thumbor.prod.vidiocdn.com/37vsjyydfCTeW-MKqdZ0NmKuqDg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=782&ext=dash&x=1792688697&k=edd684d099db38268f2f1413ae02ae7078e8f97e3737d84c524ca34f3b29ad37&sc=782
+#EXTINF:-1 tvg-uid="0922700688aeffdce5dfbaf9b3e490e9" data-source="Vididi Combi Termux" tvg-id="7230-7230" tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="INDONESIA TV", 🔴 LIVE 12:00 WIB (17/07) - Magna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=7230&ext=hls&x=1792688697&k=8dd8540edebe4c78e237aa03ebe6c583eef290ab9efd53c47ddbdf958b93c4e5&sc=7230
 #EXTINF:-1 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" group-title="INDONESIA TV" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1792681260-9b8495b50e62f1af0e038ca951b17e5d-0-04bbe96d952e5e4941836f85275b4157
-#EXTINF:-1 tvg-uid="f6b208522837e4a319bc188814444ac6" data-source="DIGITAL aja" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png" group-title="INDONESIA TV DIGITAL 🇮🇩" , ID - MNCTV 720p
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965320.m3u8
-#EXTINF:-1 tvg-expire="1792766400" tvg-start="1792724400" tvg-uid="890ad5c23981d8af27ee310d84fa1909" data-source="Mnctvsports1" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="🔴LIVE EVENT NOW 2🔴",[🔴 LIVE 10:00 WIB] [Mexico Liga MX] Tigres UANL vs Club Leon [MCS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-/api/public/relay?src=http%3A%2F%2F193.47.62.50%2Fhls%2FRIIIAAA.m3u8
+#EXTINF:-1 tvg-uid="404db425f8d17fc0302812a61aa6b58b" data-source="Maxstream" tvg-id="0_uakgnhip" tvg-name="Trans TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_uakgnhip/banner_xxxhdpi.webp" group-title="INDONESIA TV",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_uakgnhip
+https://maxstream.malingtv.workers.dev/stream/0_uakgnhip.mpd
+#EXTINF:-1 tvg-uid="71ac22ad169be81501c54c98fc613185" data-source="Apistech Indihome" tvg-id="AXNAsia.sg@Indonesia" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=79&type=drm&token=apistech
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+#EXTINF:-1 tvg-uid="4bcb064b4a4f2534f31140a1c85c209e" data-source="Maxstream" tvg-id="0_kk9nyx3y" tvg-name="AXN" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_kk9nyx3y/banner_xxxhdpi.webp" group-title="INDONESIA TV",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_kk9nyx3y
+https://maxstream.malingtv.workers.dev/stream/0_kk9nyx3y.mpd
+#EXTINF:-1 tvg-uid="9c22dd8435376aa0a7c9c8ec5d5d6388" data-source="Vididi Combi Termux" tvg-id="19046-19046" tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="INDONESIA TV", 🔴 LIVE 09:00 WIB (08/07) - Best Match Bri Super League 2026/2027
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=19046&ext=dash&x=1792688697&k=56feee1b415168468edc4e951c2decca978ce4711092f13938afad1160512079&sc=19046
+#EXTINF:-1 tvg-uid="1ff67cf50679233d02e23a674cc1e7ed" data-source="Vididi Combi Termux" tvg-id="22252-22252" tvg-logo="https://thumbor.prod.vidiocdn.com/pZ0NfuWbiGAWQMqeJbtDnHJnOok=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22252/bloomberg-tv-bfcbf4.jpg" group-title="INDONESIA TV", 🔴 LIVE 11:00 WIB (09/09) - Bloomberg TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=22252&ext=hls&x=1792688697&k=c5c188a7a33240ed7c8de1a127ade26978ad3600b683911d49b330df8e7dbc47&sc=22252
+#EXTINF:-1 tvg-uid="1fbacbdd112cda23ec64b641b3c61418" data-source="Apistech Indihome" tvg-id="CelestialMoviesIndonesia.id@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_celestialmovies.png",Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44&type=drm&token=apistech
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+#EXTINF:-1 tvg-uid="1fbacbdd112cda23ec64b641b3c61418" data-source="Apistech Indihome" tvg-id="CelestialMoviesIndonesia.id@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_celestialmovies.png",Celestial Movies
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=YmYyNTUyYjY0ZDU3M2Q0NTNkMGJjMjgyNDY3MjY1NjA=&time=15266042364&device_id=j96q4IyQkrO2X5hs5q3z-bkjFlXVOa7Ewvl903v1W_9vTDNK3ZZA
+#EXTINF:-1 tvg-uid="55735fc37e541b4a68ba4ff7aa451857" data-source="Maxstream" tvg-id="0_vq7m2eeg" tvg-name="Celestial Movies" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_vq7m2eeg/banner_xxxhdpi.webp" group-title="INDONESIA TV",Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_vq7m2eeg
+https://maxstream.malingtv.workers.dev/stream/0_vq7m2eeg.mpd
+#EXTINF:-1 tvg-uid="306598428d158329b9e1db0b3fd8b029" data-source="Vididi Combi Termux" tvg-id="17278-17278" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="INDONESIA TV", 🔴 LIVE 10:00 WIB (02/05) - Colocs De Choc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=17278&ext=drm&x=1792688697&k=2f7de8651258ca5f722d787fc9972c4a42618619d65d45e671db2e2350eeac73
+https://vididi.bonetv.biz.id/index.mpd?q=17278&ext=dash&x=1792688697&k=b0385bd6cf5714cbcd6bc753aa4c35d075689beee6f8abe4c1833faac249c140&sc=17278
+#EXTINF:-1 tvg-uid="e5a44e3acb10ba8207027d93a0c87363" data-source="Vididi Combi Termux" tvg-id="12607-12607" tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg" group-title="INDONESIA TV", 🔴 LIVE 14:00 WIB (05/05) - DMI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=12607&ext=dash&x=1792688697&k=af2214883c190f396f82fed609dafd01f05855679584eb6db82c1b5b96b56c13&sc=12607
+#EXTINF:-1 tvg-uid="df16904846ac82ded965a19aa1f5e761" data-source="Vididi Combi Termux" tvg-id="6482-6482" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="INDONESIA TV", Drama Kisah Nyata: Cinta Sepanjang Jalan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=6482&ext=dash&x=1792688697&k=5ff94dc6c124bda1a5e04ba38d25320b8b9c20d4b9dd19b32f2636901ea8e63e&sc=6482
+#EXTINF:-1 tvg-uid="d2e1e66d014c951a75ae40a0d75f6d3f" data-source="Vididi Combi Termux" tvg-id="5075-5075" tvg-logo="https://thumbor.prod.vidiocdn.com/HyJOKvUu7_oA8wWozEtI-3W1v1s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-4aa968.jpg" group-title="INDONESIA TV", 🔴 LIVE 00:02 WIB (24/12) - DW News Focus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=5075&ext=hls&x=1792688697&k=1c0e6ba32e985f2b3fa3bb38bb0e220088763fff3ccb5dcc6b00588d07d4d195&sc=5075
+#EXTINF:-1 tvg-uid="1522ebc57bd8f8e277541d1855f09cec" data-source="Vididi Combi Termux" tvg-id="1561-1561" tvg-logo="https://thumbor.prod.vidiocdn.com/CYv--Uqkj5pWwDABz8iVKzzUT_E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg" group-title="INDONESIA TV", Ejen Ali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=1561&ext=hls&x=1792688697&k=9a6e34cac199f32d5e8ce60164738e3a195de04cf3d9276cb3a80f84db93976e&sc=1561
+#EXTINF:-1 tvg-uid="d15813760f1576adce7e3400bbb223d4" data-source="Vididi Combi Termux" tvg-id="7150-7150" tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" group-title="INDONESIA TV", 🔴 LIVE 19:00 WIB (25/06) - 7.30 - Episode 168
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=7150&ext=dash&x=1792688697&k=3fac5e4b6cfadd71550ffc55c7926dad2143f5c46f605da90017044da070530f&sc=7150
+#EXTINF:-1 tvg-uid="1bdb07e43c3f0f4a4a1f9bb6697ca1b0" data-source="Vididi Combi Termux" tvg-id="875-875" tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" group-title="INDONESIA TV", Gala Cinema Md: Lawang Sewu: Dendam Kuntilanak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=875&ext=hls&x=1792688697&k=46f88692ab0e72c46ae5b72f27db9130122f68e369b58d24f5d8a3bf8a787a73&sc=875
+#EXTINF:-1 tvg-uid="f2d42cb353feeb2a2f967aab25e30913" data-source="Apistech Indihome" tvg-id="Galaxy.id@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_galaxy.png",Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=49&type=drm&token=apistech
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+#EXTINF:-1 tvg-uid="da012e9ca4613764cae99034aa7c54f9" data-source="Maxstream" tvg-id="0_anqaquwl" tvg-name="Galaxy" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_anqaquwl/banner_xxxhdpi.webp" group-title="INDONESIA TV",Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_anqaquwl
+https://maxstream.malingtv.workers.dev/stream/0_anqaquwl.mpd
+#EXTINF:-1 tvg-uid="8fa5c87ac2cd295e34da529af698fca3" data-source="Apistech Indihome" tvg-id="GalaxyPremium.id@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_galaxypremium.png",Galaxy Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=48&type=drm&token=apistech
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+#EXTINF:-1 tvg-uid="c0d31ea67a0796a89769ec752793b6d6" data-source="Maxstream" tvg-id="0_menqjsva" tvg-name="Galaxy Premium" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_menqjsva/banner_xxxhdpi.webp" group-title="INDONESIA TV",Galaxy Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_menqjsva
+https://maxstream.malingtv.workers.dev/stream/0_menqjsva.mpd
+#EXTINF:-1 tvg-uid="c3cec442b7e6ed8b4d6f676861ec45e1" data-source="Vididi Combi Termux" tvg-id="7432-7432" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="INDONESIA TV", Gestur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=7432&ext=dash&x=1792688697&k=b8ac2cfcd027e3139efc9ca9ed595b333dc27ec02fed8dc923c50c30a7a58b59&sc=7432
+#EXTINF:-1 tvg-uid="4c17c2c8689244a297db769d6ec619fd" data-source="rctiplus++" group-title="INDONESIA TV" tvg-name="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png",GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1792681262-754301cd8decb134ff65db6ae07d3ee8-0-78fdab58193901492cb32701dfd2ada9
+#EXTINF:-1 tvg-uid="28183686d09241c7fe4a21c0baae66de" data-source="Vididi Combi Termux" tvg-id="8121-8121" tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="INDONESIA TV", 🔴 LIVE 11:00 WIB (29/09) - Hellboy II: The Golden Army
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=8121&ext=drm&x=1792688697&k=deabae90d846529b87b01c38ae5587e3cce135c9c222958da6a1ba5b35f17b32
+https://vididi.bonetv.biz.id/index.mpd?q=8121&ext=dash&x=1792688697&k=ecf928d238e8f79f6b12c5b101f5d223ea31fb2df2b3ca89a9533dc51d332245&sc=8121
+#EXTINF:-1 tvg-uid="1ae0b97a43801ce030991a01aebdf8cc" data-source="Apistech Indihome" tvg-id="HITS.sg@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hits.png",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=77&type=drm&token=apistech
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+#EXTINF:-1 tvg-uid="ba9810442f785f2ba5940cd4d5e0151a" data-source="Apistech Indihome" tvg-id="HITSNOW.sg@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsnow.png",HITS Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=68&type=drm&token=apistech
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+#EXTINF:-1 tvg-uid="84cdd21d601eb905e754c56179ad1e51" data-source="Maxstream" tvg-id="0_zg4mwqv7" tvg-name="HITS Now" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_zg4mwqv7/banner_xxxhdpi.webp" group-title="INDONESIA TV",HITS Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_zg4mwqv7
+https://maxstream.malingtv.workers.dev/stream/0_zg4mwqv7.mpd
+#EXTINF:-1 tvg-uid="d81843054f22870c7754d63fb0a72971" data-source="Maxstream" tvg-id="0_hd1c30bo" tvg-name="HITS" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_hd1c30bo/banner_xxxhdpi.webp" group-title="INDONESIA TV",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_hd1c30bo
+https://maxstream.malingtv.workers.dev/stream/0_hd1c30bo.mpd
+#EXTINF:-1 tvg-uid="00d9185d0c181d313e0a72f68e911b55" data-source="Maxstream" tvg-id="0_k7eh4erk" tvg-name="HBO Hits" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_k7eh4erk/banner_xxxhdpi.webp" group-title="INDONESIA TV",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_k7eh4erk
+https://maxstream.malingtv.workers.dev/stream/0_k7eh4erk.mpd
+#EXTINF:-1 tvg-uid="c9f5346411efb88c8188a2a3e687dfd0" data-source="Apistech Indihome" tvg-id="HITSMovies.sg@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsmovies.png",HITS Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=42&type=drm&token=apistech
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+#EXTINF:-1 tvg-uid="281a5400ce9b097d61d2471a9f8ceb61" data-source="Maxstream" tvg-id="0_zrs82szk" tvg-name="HITS MOVIES" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_zrs82szk/banner_xxxhdpi.webp" group-title="INDONESIA TV",HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_zrs82szk
+https://maxstream.malingtv.workers.dev/stream/0_zrs82szk.mpd
+#EXTINF:-1 tvg-uid="3b3c5830cbae244e11e4e4e5b17fad8f" data-source="Vididi Combi Termux" data-source="Manual" group-title="INDONESIA TV" tvg-id="205" tvg-logo="https://thumbor.prod.vidiocdn.com/yreMFN6sJvCuBljGK53PnGecozU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg" tvg-uid="2e61e12f5293186586b8adbe67ac315d",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=205&ext=drm&x=1792688697&k=f6be2b60d3e3c66c5328e965b6bff0ace733335c5c56bfb66d78de7f5c64c436
+https://vididi.bonetv.biz.id/index.mpd?q=205&ext=dash&x=1792688697&k=26940f184f51ab39c2142039567d9230c3e453410cec2cc6fe13428d56569f74&sc=205
+#EXTINF:-1 tvg-uid="293d4fe903f044f2a34cbf7262a0dc89" data-source="rctiplus++" group-title="INDONESIA TV" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-HO7MEYgw8XI/YJVWu5J6BcI/AAAAAAAAEaY/j2QsI1OvKw0EetGC1RiKf7yV983t8mkxQCLcBGAsYHQ/s720/inews-p.png",iNews
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1792681264-dce05c1b946652df8036d925cbc67e9f-0-b55d9a766a70e9b427e287cadfed9b6c
+#EXTINF:-1 tvg-uid="c38dd4ad354c60ce88bb5bc88390d0b4" data-source="Vididi Combi Termux" tvg-id="9714-9714" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="INDONESIA TV", Ini Jakarta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=9714&ext=dash&x=1792688697&k=e05b9ecb915ef2183f41e62fea66b3e9b91357a4080d54869d39a322548695b9&sc=9714
+#EXTINF:-1 tvg-uid="fbea001c5687204aa3cc38f4af2f944f" data-source="Vididi Combi Termux" tvg-id="18280-18280" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="INDONESIA TV", Investor Daily Summit 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=18280&ext=dash&x=1792688697&k=c2870488dc076f98939354c6b80e9f2f72a043974b51d9c52796eca8157585c6&sc=18280
+#EXTINF:-1 tvg-uid="3bcb8b72dd8fe716d3bb6ff71ea3a175" data-source="Vididi Combi Termux" tvg-id="18622-18622" tvg-logo="https://thumbor.prod.vidiocdn.com/zE793GEKRyoy_BJxLu-Db2tsz1k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18622/daystar-tv-4eddcd.jpg" group-title="INDONESIA TV", 🔴 LIVE 15:00 WIB (29/04) - Kingdom Connection With Jentezen Franklin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=18622&ext=hls&x=1792688697&k=dc4d9cc8c889a9c7c64828886cc53b11da692aa4f8bdb4536a8f7ea475728dcc&sc=18622
+#EXTINF:-1 tvg-uid="7287da580c3f03b7575bcbb86448ff0d" data-source="Maxstream" tvg-id="0_930nfsqj" tvg-name="Kompas TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_930nfsqj/banner_xxxhdpi.webp" group-title="INDONESIA TV",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_930nfsqj
+https://maxstream.malingtv.workers.dev/stream/0_930nfsqj.mpd
+#EXTINF:-1 tvg-uid="137ba45207fe9847cea79893b3f6112f" data-source="Vididi Combi Termux" tvg-id="6852-6852" tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="INDONESIA TV", 🔴 LIVE 19:00 WIB (22/03) - Makkah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=6852&ext=dash&x=1792688697&k=fa886565c51de72d3574e87065604c611c7b12a8e6fee9824e7dc910e59bcd7e&sc=6852
+#EXTINF:-1 tvg-uid="884f0a0db45b90801335d21202e9bb1e" data-source="Indiabangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="INDONESIA TV",Makkah Live
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
+#EXTINF:-1 tvg-uid="660a6dcc5ea96e90301bb648d5f5f70d" data-source="Vididi Combi Termux" tvg-id="5415-5415" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="INDONESIA TV", Medika Natura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=5415&ext=dash&x=1792688697&k=e069676dea360f06c75576d67b6e091b78f8a354de66eec06b5330261475f333&sc=5415
+#EXTINF:-1 tvg-uid="eab2878b3912d9117cd7307c5bbdbe7a" data-source="Indiabangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="INDONESIA TV",Medina Live
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+#EXTINF:-1 tvg-uid="2b247a6a49d3d05c092a876ab5159244" data-source="Vididi Combi Termux" data-source="Manual" group-title="INDONESIA TV" tvg-id="8237" tvg-logo="https://thumbor.prod.vidiocdn.com/NtYMeVNZhPNyxZukYP38ohlF988=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg",Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=8237&ext=dash&x=1792688697&k=6a1676e91f78019ae829b4972708c2be6cc17757b65f133716753240efa47f5a&sc=8237
+#EXTINF:-1 tvg-uid="29d6af941d530542902a0d6b03fcbcd7" data-source="Maxstream" tvg-id="0_3n2pn24p" tvg-name="ANTARA TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3n2pn24p/banner_xxxhdpi.webp" group-title="INDONESIA TV",ANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_3n2pn24p
+https://maxstream.malingtv.workers.dev/stream/0_3n2pn24p.mpd
+#EXTINF:-1 tvg-uid="bcf65c87cf3febf7c04e315020bf81c9" data-source="Vididi Combi Termux" data-source="Manual" group-title="INDONESIA TV" tvg-id="206" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" tvg-uid="f761e12f5293186586b8adbe67ac315e",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=206&ext=drm&x=1792688697&k=b7d7854ef84c028461a5c64eea2c75eff84e25b8fb37a4e1d986a0faf2454943
+https://vididi.bonetv.biz.id/index.mpd?q=206&ext=dash&x=1792688697&k=a8a25550749a95dcd7f1abaf10a644505b9079385d56c546054bc4e49d90151d&sc=206
+#EXTINF:-1 tvg-uid="0586cd5a9679bb7393f33b8744eba9ba" data-source="Vididi Combi Termux" tvg-id="7619-7619" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="INDONESIA TV", 🔴 LIVE 12:00 WIB (04/02) - MUSICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=7619&ext=dash&x=1792688697&k=1a21e0ea9c6f1007aed8099d47b8b88ae7913ab659933abd1b7dc83f15760625&sc=7619
+#EXTINF:-1 tvg-uid="660bf9f8f085122815eea16b51100ad5" data-source="Vididi Combi Termux" tvg-id="7968-7968" tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg" group-title="INDONESIA TV", 🔴 LIVE 14:33 WIB (30/11) - NHK Newsline
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=7968&ext=hls&x=1792688697&k=f26a316271ca47d370e9c3015bb715f984b0efeced42a224006bacde8860bbf3&sc=7968
+#EXTINF:-1 tvg-uid="134a1dca629934e494768cda1e59bb02" data-source="Vididi Combi Termux" tvg-id="9713-9713" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="INDONESIA TV", Pojok Kampung
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=9713&ext=dash&x=1792688697&k=6e31f992cd9c226afb3c7d5b49a68a6af11c36c55d01766d234899b4fbc7eb65&sc=9713
+#EXTINF:-1 tvg-uid="5fb214653210916c03964bea4ab8f4b5" data-source="Vididi Combi Termux" tvg-id="6784-6784" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="INDONESIA TV", 🔴 LIVE 12:00 WIB (22/02) - Press Perspective [R]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=6784&ext=dash&x=1792688697&k=7b1ee29f860d5c74b928190e5827d3720d2ab23003d9811b85fafa2b4f59599d&sc=6784
+#EXTINF:-1 tvg-uid="8497a4a3da2148508985e5fe814d53a2" data-source="rctiplus++" group-title="INDONESIA TV" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1792681258-f07a860816ca249625897f9aa3338e44-0-a108a45cc9ab54cee748651e3bc2b69a
+#EXTINF:-1 tvg-uid="ed5eb43bf4b8869f1ca83cd898b7a5f3" data-source="Maxstream" tvg-id="0_1gshn4os" tvg-name="Rock Action" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1gshn4os/banner_xxxhdpi.webp" group-title="INDONESIA TV",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_1gshn4os
+https://maxstream.malingtv.workers.dev/stream/0_1gshn4os.mpd
+#EXTINF:-1 tvg-uid="36c0ae16446a6e9e93f92d96f79debff" data-source="Maxstream" tvg-id="0_a98kaoda" tvg-name="Rock Entertainment" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_a98kaoda/banner_xxxhdpi.webp" group-title="INDONESIA TV",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_a98kaoda
+https://maxstream.malingtv.workers.dev/stream/0_a98kaoda.mpd
+#EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="INDONESIA TV" tvg-id="204" tvg-logo="https://thumbor.prod.vidiocdn.com/zC1sgRjjrepRcA28mhCpTPjE6zA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg" tvg-uid="9b6e12f5293186586b8adbe67ac315b",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=204&ext=drm&x=1792688697&k=e6e113c58c52a2ab06da9683324af5ea9f8b963d9ca5bb084b8cbb21884d593b
+https://vididi.bonetv.biz.id/index.mpd?q=204&ext=dash&x=1792688697&k=72ecb950c560e39b3c793a8710bf275311dda40205c222b1b4e6b0d95a74a3c2&sc=204
+#EXTINF:-1 tvg-uid="c21725ef91feb03d649936c1bf9ae2cb" data-source="Maxstream" tvg-id="0_e9m9jzif" tvg-name="SPOTV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_e9m9jzif/banner_xxxhdpi.webp" group-title="INDONESIA TV",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_e9m9jzif
+https://maxstream.malingtv.workers.dev/stream/0_e9m9jzif.mpd
+#EXTINF:-1 tvg-uid="ee4a91c719e9b220f2c11ae417aa2700" data-source="Vididi Combi Termux" tvg-id="6411-6411" tvg-logo="https://thumbor.prod.vidiocdn.com/nBRneLipjed0tzgVoHIft83fOYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-31d4e8.jpg" group-title="INDONESIA TV", 🔴 LIVE 00:00 WIB (07/09) - Singapore Tonight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=6411&ext=hls&x=1792688697&k=9ddc5cfead9dba716492a379ea25a0c2e9bafbddca94c60b2ec598a318bc5dc8&sc=6411
+#EXTINF:-1 tvg-uid="2c0e5c9fb0b3d43a9c6a0000190a9094" data-source="Maxstream" tvg-id="0_mubcipck" tvg-name="SPOTV 2" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_mubcipck/banner_xxxhdpi.webp" group-title="INDONESIA TV",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_mubcipck
+https://maxstream.malingtv.workers.dev/stream/0_mubcipck.mpd
+#EXTINF:-1 tvg-uid="1f2057d43d3a335727e50dd642d335ca" data-source="Vididi Combi Termux" tvg-id="7464-7464" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="INDONESIA TV", Tafsir Al-Quran
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=7464&ext=drm&x=1792688697&k=cdf64a04ad9404fcf2c33713c82abb78f116f4f8be9651772693c59431825fdd
+https://vididi.bonetv.biz.id/index.mpd?q=7464&ext=dash&x=1792688697&k=b5e1cfda40491c18c0f92cb8193fa672162e6922a873435bf7330dde88797cab&sc=7464
+#EXTINF:-1 tvg-uid="2b03e735829a9f59385e690b4047a8dc" data-source="Vididi Combi Termux" tvg-id="6412-6412" tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg" group-title="INDONESIA TV", 🔴 LIVE 00:00 WIB (03/01) - The European debrief
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=6412&ext=dash&x=1792688697&k=bd3ac362521d17c0a2f52ce84bf1f73fb2ee6a8f327fb2aed63fffb0dfa5bcf7&sc=6412
+#EXTINF:-1 tvg-uid="d6f9b69ea1e93e74b1f6b1d329825fd2" data-source="Vididi Combi Termux" tvg-id="6362-6362" tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="INDONESIA TV", 🔴 LIVE 00:00 WIB (07/09) - The Judge Returns Ep7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=6362&ext=drm&x=1792688697&k=a037ae795888100eca5d9b66ad3274e1062f63da3b7e5493b3d24d0f2dfd9d3a
+https://vididi.bonetv.biz.id/index.mpd?q=6362&ext=dash&x=1792688697&k=fce1d441ceb332150e1dbc9617892cfdbc215d7cb6206f2f9b8d18642a7098ac&sc=6362
+#EXTINF:-1 tvg-uid="263a5847d18b7a5dcd09a925e4303959" data-source="Apistech Indihome" tvg-id="Thrill.hk@SD" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VGhyaWxs/manifest.mpd?signature=NTU4YTg1YjM1N2JjNjc1MDBjM2U1MGQ3MmI0YjEyOWY=&time=15266042447&device_id=VdSdx3RqjO49wh6tdul6TjQMq9jyfQoFCef7OL5ij97p0sgHrxTo
+#EXTINF:-1 tvg-uid="306a346ec6f029bb9c759c8b8c7e76fb" data-source="Maxstream" tvg-id="0_wiy2wbmv" tvg-name="Thrill" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wiy2wbmv/banner_xxxhdpi.webp" group-title="INDONESIA TV",Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_wiy2wbmv
+https://maxstream.malingtv.workers.dev/stream/0_wiy2wbmv.mpd
+#EXTINF:-1 tvg-uid="6a9e90ae8abca42a67adb9879d7c8767" data-source="Vididi Combi Termux" tvg-id="777-777" tvg-logo="https://thumbor.prod.vidiocdn.com/MZFTa6Gsypo60eszkR_RoTH-bhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380471/f49093.jpg" group-title="INDONESIA TV", Top News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=777&ext=dash&x=1792688697&k=6a01db6c67b6a97315923ecd0ce73bd48ebee152bf5f9fc7489f7b036bb5b5d3&sc=777
+#EXTINF:-1 tvg-uid="e78dae7c87b4938f04312bffed90d4aa" data-source="Vididi Combi Termux" tvg-id="6410-6410" tvg-logo="https://thumbor.prod.vidiocdn.com/nNXh7qb2ZgetCPk7CN7hyyoKqLo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg" group-title="INDONESIA TV", 🔴 LIVE 00:00 WIB (29/09) - News LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=6410&ext=hls&x=1792688697&k=f802250172ac021d4fc1d496ce26196a01b15fd43b976265431efef1c54b6224&sc=6410
+#EXTINF:-1 tvg-uid="dd39b2b56bea813183c0328b3ac6fa7d" data-source="Vididi Combi Termux" tvg-id="22337-22337" tvg-logo="https://thumbor.prod.vidiocdn.com/9mqFHoUEkSdD613Ixe0EB9Et7QY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22337/france24-d4665d.jpg" group-title="INDONESIA TV", 🔴 LIVE 16:00 WIB (21/09) - News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vididi.bonetv.biz.id/play.m3u8?q=22337&ext=hls&x=1792688697&k=019fccf5d31bdebe314ea4ff92bef7586a85866457be316395ca29f6e5da9385&sc=22337
+#EXTINF:-1 tvg-uid="92a25da14daf3ca5827c4e4b78e42428" data-source="Maxstream" tvg-id="0_a7dno7wk" tvg-name="TRANS 7" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_a7dno7wk/banner_xxxhdpi.webp" group-title="INDONESIA TV",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_a7dno7wk
+https://maxstream.malingtv.workers.dev/stream/0_a7dno7wk.mpd
+#EXTINF:-1 tvg-uid="251ae945fec84b9035d5abd69e0fa73e" data-source="Trans" tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png",TRANS 7 Sevenhub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.eu-north-1a.cf.dmcdn.net/sec2(arzUna38iJLqwgSp6gMgM2N91ExXPUPRX-y-HBnobwJPPXs8x0xk8Yz8q_CsH4LwG0lYMSiYoMDL7j3K1hcVh6JMHqNzecthpxizBE57NX6d5XlM7Eqqzcxu01JrNebg)/dm/3/x8qckyq/d/live-720.m3u8
+#EXTINF:-1 tvg-uid="95536357052b2de22cf0fc2cfe391da6" data-source="Trans" tvg-uid="95536357052b2de22cf0fc2cfe391da6" data-source="Trans" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png",TRANS TV DTK
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-cookie=_gcl_au=1.1.425097254.1792674283; _ga=GA1.1.860994167.1792674284; __dtma=146380193.1906628248.1792674284.1792674284.1792674284.1; __dtmc=146380193; __dtmb=146380193.2.10.1792674284; HWWAFSESID=a354973ab2a2438f7d; HWWAFSESTIME=1792674284397; _ga_ZB365DT921=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0; _ga_CY42M5S751=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1792656974257&wowzatokenhash=d7LNWwSxFIfoZmNEQqkplb3JD2a4oi5qkOQjjmiGyJY%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://20.detik.com/&Origin=https://20.detik.com&Cookie=_gcl_au=1.1.425097254.1792674283; _ga=GA1.1.860994167.1792674284; __dtma=146380193.1906628248.1792674284.1792674284.1792674284.1; __dtmc=146380193; __dtmb=146380193.2.10.1792674284; HWWAFSESID=a354973ab2a2438f7d; HWWAFSESTIME=1792674284397; _ga_ZB365DT921=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0; _ga_CY42M5S751=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0
+#EXTINF:-1 tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png",TRANS 7 DTK
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-cookie=_gcl_au=1.1.425097254.1792674283; _ga=GA1.1.860994167.1792674284; __dtma=146380193.1906628248.1792674284.1792674284.1792674284.1; __dtmc=146380193; __dtmb=146380193.2.10.1792674284; HWWAFSESID=a354973ab2a2438f7d; HWWAFSESTIME=1792674284397; _ga_ZB365DT921=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0; _ga_CY42M5S751=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1071588624_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTI2NTY5Nzg4Nzgmd293emF0b2tlbmhhc2g9NUc5dHhKR29DZXhNQjdxSUlyc3hIaVp3aHJyb2RtY0l5V2sxSHo1TmE4Zz0=.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://20.detik.com/&Origin=https://20.detik.com&Cookie=_gcl_au=1.1.425097254.1792674283; _ga=GA1.1.860994167.1792674284; __dtma=146380193.1906628248.1792674284.1792674284.1792674284.1; __dtmc=146380193; __dtmb=146380193.2.10.1792674284; HWWAFSESID=a354973ab2a2438f7d; HWWAFSESTIME=1792674284397; _ga_ZB365DT921=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0; _ga_CY42M5S751=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0
+#EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="INDONESIA TV" tvg-id="783" tvg-logo="https://thumbor.prod.vidiocdn.com/oxJn_nsXnzIcI2lFivvZbbm9PHQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg",tvOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=783&ext=dash&x=1792688697&k=173901a2a86ee7aa7d4c6e0509205b6353d022f91f75b8a203598adebb369f7a&sc=783
+#EXTINF:-1 tvg-uid="97a3abba80e8fa117ec46aeccb64ed82" data-source="Vididi Combi Termux" tvg-id="6898-6898" tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" group-title="INDONESIA TV", 🔴 LIVE 22:33 WIB (09/04) - U-Channel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=6898&ext=dash&x=1792688697&k=7df9c798c04348dcdb06f3b553413b939d0b1144fbf9890faebe3626e533539f&sc=6898
 
 
 
