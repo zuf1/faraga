@@ -138,6 +138,11 @@ https://rctiplus123.mikrofast.my.id/rctiplus/rcti/redirect.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cubmu.mikrofast.my.id/live/217/manifest.mpd
+#EXTINF:-1 tvg-uid="8497a4a3da2148508985e5fe814d53a2" data-source="rctiplus++" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI - Server 3
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1792681258-f07a860816ca249625897f9aa3338e44-0-a108a45cc9ab54cee748651e3bc2b69a
+
 
 
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
@@ -262,8 +267,10 @@ https://tvstreamcast.com/indonesiana.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=25
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd
 
-#EXTINF:-1 tvg-id="JawaPosTV.id@SD" group-title="Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png",JawaPos TV
-
+#EXTINF:-1 tvg-uid="c38dd4ad354c60ce88bb5bc88390d0b4" data-source="Vididi Combi Termux" tvg-id="JawaPosTV.id@SD" group-title="Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png",JawaPos TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://vididi.bonetv.biz.id/index.mpd?q=9714&ext=dash&x=1792688697&k=e05b9ecb915ef2183f41e62fea66b3e9b91357a4080d54869d39a322548695b9&sc=9714
 
 #EXTINF:-1 tvg-id="JTV.id@SD" group-title="Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
