@@ -1,16 +1,15 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="⛔.:© 2026 ApisTECH:. Playlist Gratis Tidak Diperjualbelikan!⛔" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
+#EXTINF:-1 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" group-title="INDONESIA TV" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1792681260-9b8495b50e62f1af0e038ca951b17e5d-0-04bbe96d952e5e4941836f85275b4157
+#EXTINF:-1 tvg-uid="f6b208522837e4a319bc188814444ac6" data-source="DIGITAL aja" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png" group-title="INDONESIA TV DIGITAL 🇮🇩" , ID - MNCTV 720p
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965320.m3u8
+#EXTINF:-1 tvg-expire="1792766400" tvg-start="1792724400" tvg-uid="890ad5c23981d8af27ee310d84fa1909" data-source="Mnctvsports1" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="🔴LIVE EVENT NOW 2🔴",[🔴 LIVE 10:00 WIB] [Mexico Liga MX] Tigres UANL vs Club Leon [MCS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+/api/public/relay?src=http%3A%2F%2F193.47.62.50%2Fhls%2FRIIIAAA.m3u8
 
-#EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="INDONESIA TV" tvg-id="782" tvg-logo="https://thumbor.prod.vidiocdn.com/37vsjyydfCTeW-MKqdZ0NmKuqDg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vididi.bonetv.biz.id/index.mpd?q=782&ext=dash&x=1792688697&k=edd684d099db38268f2f1413ae02ae7078e8f97e3737d84c524ca34f3b29ad37&sc=782
-#EXTINF:-1 tvg-uid="59e6152673b872a454b81e33391b1c17" data-source="DIGITAL aja" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" x-spion-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="INDONESIA TV DIGITAL 🇮🇩" , |ID|  ANTV
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1165776.m3u8
-#EXTINF:-1 tvg-uid="2e59161c2add0bca0a6340dd0b1b9137" data-source="DIGITAL aja" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="INDONESIA TV DIGITAL 🇮🇩" , ID - ANTV SD
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965290.m3u8
 
 
 #EXTINF:-1 data-source="Manual" group-title="🇮🇩BRI SUPER LEAGUE" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" tvg-uid="e8f6f209425ba26ab7b11a59cd283529",INDOSIAR DIGITAL FHD 1
