@@ -1,21 +1,6 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="⛔.:© 2026 ApisTECH:. Playlist Gratis Tidak Diperjualbelikan!⛔" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
-#EXTINF:-1 tvg-uid="404db425f8d17fc0302812a61aa6b58b" data-source="Maxstream" tvg-id="0_uakgnhip" tvg-name="Trans TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_uakgnhip/banner_xxxhdpi.webp" group-title="INDONESIA TV",Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_uakgnhip
-https://maxstream.malingtv.workers.dev/stream/0_uakgnhip.mpd
-#EXTINF:-1 tvg-uid="95536357052b2de22cf0fc2cfe391da6" data-source="Trans" tvg-uid="95536357052b2de22cf0fc2cfe391da6" data-source="Trans" group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png",TRANS TV DTK
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-cookie=_gcl_au=1.1.425097254.1792674283; _ga=GA1.1.860994167.1792674284; __dtma=146380193.1906628248.1792674284.1792674284.1792674284.1; __dtmc=146380193; __dtmb=146380193.2.10.1792674284; HWWAFSESID=a354973ab2a2438f7d; HWWAFSESTIME=1792674284397; _ga_ZB365DT921=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0; _ga_CY42M5S751=GS2.1.s1792674283$o1$g1$t1792674303$j40$l0$h0
-https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1792656974257&wowzatokenhash=d7LNWwSxFIfoZmNEQqkplb3JD2a4oi5qkOQjjmiGyJY%3D
-#EXTINF:-1 tvg-uid="4e2409acc14b3bdda38e9aa75f0e8b94" data-source="DIGITAL aja" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" x-spion-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="INDONESIA TV DIGITAL 🇮🇩" , |ID| Trans TV ID
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/192206.m3u8
-#EXTINF:-1 tvg-uid="100a59f0d83a61125834cb278bc4b09b" data-source="DIGITAL aja" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" group-title="INDONESIA TV DIGITAL 🇮🇩" , ID - Trans TV 720p
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965330.m3u8
+
 
 
 
