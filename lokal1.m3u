@@ -1,5 +1,35 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" billed-msg="⛔.:© 2026 ApisTECH:. Playlist Gratis Tidak Diperjualbelikan!⛔" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
+
+#EXTINF:-1 data-source="Manual" group-title="🇮🇩BRI SUPER LEAGUE" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" tvg-uid="e8f6f209425ba26ab7b11a59cd283529",INDOSIAR DIGITAL FHD 1
+http://line.4k-beast.top/ehZZtoP2AZdmcJJ/llCtpHFoxt/1505849
+#EXTINF:-1 data-source="Manual" group-title="🇮🇩BRI SUPER LEAGUE" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" tvg-uid="44b757a47fb549930f664cc47f264a4a",INDOSIAR DIGITAL FHD 2
+http://ilvip.net:80/live/0546556529/0546556529/259987.ts
+#EXTINF:-1 data-source="Manual" group-title="🇮🇩BRI SUPER LEAGUE" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" tvg-uid="5ed23f92316a27e6f1e70044210ebf0f",INDOSIAR DIGITAL FHD 3
+http://wsline.cc/54124948A862926/oLqu2g35eC/1247933
+#EXTINF:-1 tvg-uid="d79d093480e55882c997b57e8830f2c7" data-source="KontolTV" group-title="🇮🇩BRI SUPER LEAGUE" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Persib
+https://pull.streamviewk7x.click/livesp/sd-6MxiKav3vNEE1VV6av_hd.m3u8?txSecret=c1916b5ddf9d909d0c2ca27560652462&txTime=6ADB4C40
+#EXTINF:-1 tvg-uid="d79d093480e55882c997b57e8830f2c7" data-source="KontolTV" group-title="🇮🇩BRI SUPER LEAGUE" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Persib
+https://pull.streamviewk7x.click/livesp/sd-6MxiKav3vNEE1VV6av_hd.m3u8?txSecret=c1916b5ddf9d909d0c2ca27560652462&txTime=6ADB4C40
+#EXTINF:-1 tvg-uid="d79d093480e55882c997b57e8830f2c7" data-source="KontolTV" group-title="🇮🇩BRI SUPER LEAGUE" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Persib
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614388.m3u8?txSecret=51e3af6ec457df9f63be5db15c758662&txTime=6ADA1206
+#EXTINF:-1 tvg-uid="d79d093480e55882c997b57e8830f2c7" data-source="KontolTV" group-title="🇮🇩BRI SUPER LEAGUE" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Persib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-uid="360aae7351a3d4504b7b8a7a10e81607" data-source="Diktalive" tvg-id="76bee1394d5e0a323c50198949d2eb2ce98313b7" tvg-name="Madura United FC vs PERSIB - BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/5x13OZ2vvbr1JBFx-c1KaNYZMT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387867/99a403.jpg" group-title="🇮🇩BRI SUPER LEAGUE",Madura United FC vs PERSIB - BRI Super League
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzY0MTQ5fQ.3QPECex-PEsbVZL6sLEb1ITxK3SVAJaaONcB9Oq626Q
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzY0MTQ5fQ.3QPECex-PEsbVZL6sLEb1ITxK3SVAJaaONcB9Oq626Q
+
+
 #EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
