@@ -44,7 +44,20 @@ https://cubmu.mikrofast.my.id/live/276/manifest.mpd
 
 #EXTINF:-1 tvg-id="IDXChannel.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
 
-#EXTINF:-1 tvg-id="indosiar.id" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",INDOSIAR - Server 1
+
+#EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="5ed23f92316a27e6f1e70044210ebf0f",INDOSIAR - Server 1
+http://wsline.cc/54124948A862926/oLqu2g35eC/1247933
+#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",INDOSIAR - Server 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vidio123.mikrofast.web.id/vidio/205/index.mpd
+#EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="e8f6f209425ba26ab7b11a59cd283529",INDOSIAR - Server 3
+http://line.4k-beast.top/ehZZtoP2AZdmcJJ/llCtpHFoxt/1505849
+#EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="44b757a47fb549930f664cc47f264a4a",INDOSIAR - Server 4
+http://ilvip.net:80/live/0546556529/0546556529/259987.ts
+#EXTINF:-1 tvg-id="indosiar.id" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",INDOSIAR - Server 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -52,12 +65,8 @@ https://cubmu.mikrofast.my.id/live/276/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",INDOSIAR - Server 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-origin=https://m.vidio.com
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vidio123.mikrofast.web.id/vidio/205/index.mpd
+
+
 
 
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews - Server 1
