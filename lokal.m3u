@@ -193,6 +193,12 @@ https://transmedia.mikrofast.my.id/detik/trans7/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://cbm-drm.openwindow042.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#EXTINF:-1 tvg-uid="251ae945fec84b9035d5abd69e0fa73e" data-source="Trans" tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" group-title="Nasional",Trans 7 - Server 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.eu-north-1a.cf.dmcdn.net/sec2(arzUna38iJLqwgSp6gMgM2N91ExXPUPRX-y-HBnobwJPPXs8x0xk8Yz8q_CsH4LwG0lYMSiYoMDL7j3K1hcVh6JMHqNzecthpxizBE57NX6d5XlM7Eqqzcxu01JrNebg)/dm/3/x8qckyq/d/live-720.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
