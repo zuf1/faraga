@@ -188,7 +188,7 @@ https://cubmu.mikrofast.my.id/live/215/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetv.biz.id/index.mpd?q=204&ext=drm&x=1792688697&k=e6e113c58c52a2ab06da9683324af5ea9f8b963d9ca5bb084b8cbb21884d593b
-https://vididi.bonetv.biz.id/index.mpd?q=204&ext=dash&x=1792688697&k=72ecb950c560e39b3c793a8710bf275311dda40205c222b1b4e6b0d95a74a3c2&sc=204
+#https://vididi.bonetv.biz.id/index.mpd?q=204&ext=dash&x=1792688697&k=72ecb950c560e39b3c793a8710bf275311dda40205c222b1b4e6b0d95a74a3c2&sc=204
 
 
 #EXTINF:-1 tvg-id="SinPoTV.id@HD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
