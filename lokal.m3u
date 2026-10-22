@@ -176,7 +176,7 @@ https://ogietv.biz.id/Dimas01/bara01/1322.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cubmu.mikrofast.my.id/live/215/manifest.mpd
 
-#EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" tvg-uid="9b6e12f5293186586b8adbe67ac315b" data-source="Vididi Combi Termux" data-source="Manual" group-title="INDONESIA TV" tvg-id="204" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="Nasional",SCTV - Server 4
+#EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" tvg-uid="9b6e12f5293186586b8adbe67ac315b" data-source="Vididi Combi Termux" data-source="Manual" tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="Nasional",SCTV - Server 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
