@@ -688,9 +688,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #EXTINF:-1 tvg-id="beINSports3.qa@Indonesia" tvg-logo="https://i.pinimg.com/736x/20/f8/53/20f853787e15c584b40cb92aee225029.jpg" group-title="Sports",beIN Sports 3 - Server 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="⭐⭐SPORTS⭐⭐",BeIN Sports Xtra - Server 1
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="Sports",BeIN Sports Xtra - Server 1
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="⭐⭐SPORTS⭐⭐",BeIN Sports Xtra - Server 2
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="Sports",BeIN Sports Xtra - Server 2
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
