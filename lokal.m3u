@@ -1598,13 +1598,6 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG58.png" group-title="⭐⭐SPORTS⭐⭐",UFC (NITRO)
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYfUG3WC-VjmiYHMbBqsudjkwUVl7mtXgYHgOWxJqug&s=10" group-title="⭐⭐SPORTS⭐⭐",M live 2 (SG)
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
 #======================================================== WILLOW SPORT ====================================================================
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
