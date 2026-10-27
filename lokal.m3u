@@ -60,11 +60,7 @@ https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1792681262-754301c
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 #EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="e8f6f209425ba26ab7b11a59cd283529",INDOSIAR - Server 2
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-origin=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
+http://line.4k-beast.top/ehZZtoP2AZdmcJJ/llCtpHFoxt/1505849
 #EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="44b757a47fb549930f664cc47f264a4a",INDOSIAR - Server 3
 http://ilvip.net:80/live/0546556529/0546556529/259987.ts
 #EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="5ed23f92316a27e6f1e70044210ebf0f",INDOSIAR - Server 4
