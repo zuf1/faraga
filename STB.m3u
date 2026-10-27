@@ -1,26 +1,6 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
 #######     EVENT    #####
-#EXTINF:-1 tvg-id="sport-eacb0b858e37" tvg-name="Bhayangkara Presisi Indonesia FC vs Persatuan Sepakbola Makassar" tvg-logo="https://img.cltvap.cc/football/team/837cf9a178940067578b7343018e003a.png" group-title="EVENT",[19:00] 26/10 ⚽ Bhayangkara Presisi Indonesia FC vs Persatuan Sepakbola Makassar (Gà Siêu Kiêu) • Indonesian Super League [HLS]
-#EXTGRP:EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavang33.co/
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-id="sport-e713126f4e48" tvg-name="Bhayangkara Presisi Indonesia FC vs Persatuan Sepakbola Makassar" tvg-logo="https://img.cltvap.cc/football/team/837cf9a178940067578b7343018e003a.png" group-title="EVENT",[19:00] 26/10 ⚽ Bhayangkara Presisi Indonesia FC vs Persatuan Sepakbola Makassar (Gà Siêu Kiêu) • Indonesian Super League [FLV]
-#EXTGRP:EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavang33.co/
-https://live2.zktsva.app/live/741294.flv
-#EXTINF:-1 tvg-id="sport-665499dbb731" tvg-name="Persebaya Surabaya vs Madura United" tvg-logo="https://img.cltvap.cc/football/team/66307444901ddb38c881129b7ea0105e.png" group-title="EVENT",[19:00] 26/10 ⚽ Persebaya Surabaya vs Madura United • Indonesian Super League [HLS]
-#EXTGRP:EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavang33.co/
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-id="sport-78612bee820a" tvg-name="Persebaya Surabaya vs Madura United" tvg-logo="https://img.cltvap.cc/football/team/66307444901ddb38c881129b7ea0105e.png" group-title="EVENT",[19:00] 26/10 ⚽ Persebaya Surabaya vs Madura United • Indonesian Super League [FLV]
-#EXTGRP:EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavang33.co/
-https://live2.zktsva.app/live/796315.flv
 
 
 #####         NASIONAL        ###########
