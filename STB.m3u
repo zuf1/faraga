@@ -561,6 +561,11 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title
 #KODIPROP:inputstream.adaptive.license_key=27adff179a63db8066aa6733cb30d918:5a4e36391d13c94a4bf925d8fd8a236c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/out/v1/cac331ecba3b4d86b58a1a0a706a82eb/cenc.mpd?encoding=segmentBase
+#EXTINF:-1 tvg-id="20240402T134311SQUARE" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20240402T134311SQUARE.png" group-title="Knowledge",Italian Fishing TV
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-name="FISHING TV" tvg-logo="https://images-tm.tempo.co/all/2023/11/04/845913/845913_1200.jpg" group-title="Knowledge",FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png",History
 
