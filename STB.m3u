@@ -551,6 +551,17 @@ https://ac-009.live.p7s1video.net/6544f62b/t_009/bbc-history-hd/cenc-default.mpd
 #EXTINF:-1 tvg-id="DensKnowledge.id@SD" group-title="Knowledge" tvg-logo="https://pic.dens.tv/tv_183x174/1701335366_square.jpg",Dens Knowledge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Sharks" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIiaXMVIVY2zNAeOhFwoIrONIBYXR6reGqC6IMFxP9Vw&s=10" group-title="Knowledge",Nat Geo Sharks
+#KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd?encoding=segmentBase
+#EXTINF:-1 tvg-id="" tvg-name="Hunt Fish TV" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Knowledge",Hunt Fish TV
+https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-HUNT_FISH_TV/sofastplayout/WiseM3U8_2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MagellanTV Wildest" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/10/MagellanTV_Hero_GS.jpg" group-title="Knowledge",MagellanTV Wildest
+#KODIPROP:inputstream.adaptive.license_key=27adff179a63db8066aa6733cb30d918:5a4e36391d13c94a4bf925d8fd8a236c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/out/v1/cac331ecba3b4d86b58a1a0a706a82eb/cenc.mpd?encoding=segmentBase
+
 #EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png",History
 
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Love Nature
