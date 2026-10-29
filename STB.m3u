@@ -241,11 +241,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://transmedia.mikrofast.my.id/detik/trans7/index.m3u8
 #EXTINF:-1 tvg-id="trans.7" tvg-name="TRANS 7" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" group-title="Nasional",Trans 7 - Server 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://cbm-drm.openwindow042.workers.dev/
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
+https://bandeltv.xyz/2026/20detik/index.m3u8?id=trans7
 #EXTINF:-1 tvg-uid="251ae945fec84b9035d5abd69e0fa73e" data-source="Trans" tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" group-title="Nasional",Trans 7 - Server 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.eu-north-1a.cf.dmcdn.net/sec2(arzUna38iJLqwgSp6gMgM2N91ExXPUPRX-y-HBnobwJPPXs8x0xk8Yz8q_CsH4LwG0lYMSiYoMDL7j3K1hcVh6JMHqNzecthpxizBE57NX6d5XlM7Eqqzcxu01JrNebg)/dm/3/x8qckyq/d/live-720.m3u8
