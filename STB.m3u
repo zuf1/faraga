@@ -3,7 +3,7 @@
 #######     EVENT    #####
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/ezznevo/1mages/loc/id.rc.ti.pls.png" group-title="EVENT", LIVE 1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://stream.ambontv.my.id/play/live1.m3u8
+#https://stream.ambontv.my.id/play/live1.m3u8
 
 
 #####         NASIONAL        ###########
