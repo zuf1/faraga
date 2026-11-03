@@ -2061,50 +2061,48 @@ http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985133&ex
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/spotv1
-https://stream.ambontv.my.id/play/spotv1.mpd
+https://rplus.inisemar.my.id/spotv1.mpd
 #EXTINF:-1 tvg-name="spotv2" tvg-id="SPOTV2" group-title="SPORTS" tvg-logo="https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/spotv2
-https://stream.ambontv.my.id/play/spotv2.mpd
+https://rplus.inisemar.my.id/spotv2.mpd
 #EXTINF:-1 tvg-name="bein1" group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_bein1_big1.png",beIN Sports 1 ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://stream.ambontv.my.id/play/bein1.mpd
+https://rplus.inisemar.my.id/bein1.mpd
 #EXTINF:-1 tvg-name="bein2" group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_bein2_big1.png",beIN Sports 2 ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://stream.ambontv.my.id/play/bein2.mpd
+https://rplus.inisemar.my.id/bein2.mpd
 #EXTINF:-1 tvg-name="bein3" group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_bein3_big1.png",beIN Sports 3 ID
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://stream.ambontv.my.id/play/bein3.mpd
+https://rplus.inisemar.my.id/bein3.mpd
 #EXTINF:-1 tvg-name="bein4" tvg-id="beINSports4.id" tvg-name="beIN Sports 4" tvg-logo="https://iili.io/JhkQo22.png" group-title="SPORTS", beIN Sports 4 ID
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://stream.ambontv.my.id/play/bein4.mpd
+https://rplus.inisemar.my.id/bein4.mpd
 #EXTINF:-1 tvg-name="bein5" tvg-id="beINSports5.id" tvg-name="beIN Sports 5" tvg-logo="https://iili.io/JhkQzk7.png" group-title="SPORTS", beIN Sports 5 ID
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://stream.ambontv.my.id/play/bein5.mpd
-
-
+https://rplus.inisemar.my.id/bein5.mpd
 
 
 
