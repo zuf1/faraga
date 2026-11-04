@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
 #######     EVENT    #####
+#EXTINF:-1 group-title="UPDATE" tvg-logo="https://yt3.googleusercontent.com/OKx-01QJrWJ0WdsHtOnQKhJUltnNSJQ1RJ1SVv7HX-GlBra5c5IG-qEYsd2JRRchTt_NY_p1lDw=s900-c-k-c0x00ffffff-no-rj",UPDATE
+com/zuf1/faraga/raw/refs/heads/main/a.mp4
+
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/ezznevo/1mages/loc/id.rc.ti.pls.png" group-title="EVENT", LIVE 1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://stream.ambontv.my.id/play/live1.m3u8
