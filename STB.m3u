@@ -1842,7 +1842,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-#EXTINF:-1 tvg-id="fancode2" tvg-name="FANCODE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/FanCode_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="⭐⭐SPORTS⭐⭐",FANCODE 2 (NITRO)
+#EXTINF:-1 tvg-id="fancode2" tvg-name="FANCODE 2" tvg-logo="https://www.cricuspl.com/wp-content/uploads/2024/11/FanCode-Logo-2022_FanCode-OrangeOnTransarent.png" group-title="⭐⭐SPORTS⭐⭐",FANCODE 2 (NITRO)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 
@@ -1870,7 +1870,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="⭐⭐SPORTS⭐⭐",ELEVEN SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0SO6us8_XPAxOdhqe2pJOopyDKlBlc5LmPsXtMFHyw&s=10" group-title="⭐⭐SPORTS⭐⭐",ELEVEN SPORTS
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
 #========================================================  ====================================================================
@@ -1881,7 +1881,7 @@ https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 #EXTINF:-1 group-title="⭐⭐SPORTS⭐⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s",DAZN FAST+
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="⭐⭐SPORTS⭐⭐",DAZN RISE
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=013f441f-acc9-495a-a8ab-ecde43444027&quality=70" group-title="⭐⭐SPORTS⭐⭐",DAZN RISE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4
@@ -1928,7 +1928,7 @@ https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd
 
 #========================================================  ====================================================================
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="⭐⭐SPORTS⭐⭐", Arena Sport 1 🇸🇰
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEBZhnmrph8HJToIByYifUcr8F67r4gtDF--u7-VN5GqITTOR8Cip1ZhU&s=10" group-title="⭐⭐SPORTS⭐⭐", Kanal 1 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1936,7 +1936,7 @@ https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-ljDXFQTDIcDi2aVDKhagkpxxGCgah67kBRLc2Y4QedMA_YPoHlSSCA&s=10" group-title="⭐⭐SPORTS⭐⭐",Kanal 1 Extra 🇸🇰
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2B_Extra_1.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="⭐⭐SPORTS⭐⭐",Kanal 1 Extra 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1971,7 +1971,7 @@ https://webtvstream.bhtelecom.ba/hls10/arena7.mpd?n=browsernull-cdn.sam.net
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
-#EXTINF:-1 tvg-id="VIX TUDN" tvg-logo="https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png" group-title="⭐⭐SPORTS⭐⭐",VIX TUDN 🇲🇽
+#EXTINF:-1 tvg-id="VIX TUDN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOZYg1ChvugtAW8vDA7w_N7dEBqtw7Td8bgvM3jzA2XweaIESApOt2ciG&s=10" group-title="⭐⭐SPORTS⭐⭐",VIX TUDN 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
