@@ -36,7 +36,7 @@ https://stream.ambontv.my.id/play/antv.mpd?exp=1793876675&sign=79b68311ba1c5e559
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
 
-#EXTINF:-1 tvg-uid="8497a4a3da2148508985e5fe814d53a2" data-source="rctiplus++" tvg-id="rcti" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI - Server 1
+#EXTINF:-1 tvg-id="rcti" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI - Server 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/jabingan/rcti.m3u8?id=1
@@ -47,10 +47,14 @@ https://stream.ambontv.my.id/play/rcti.m3u8?exp=1793876675&sign=0a72397d2b23e8a6
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rplus.inisemar.my.id/rcti.m3u8
-#EXTINF:-1 tvg-uid="8497a4a3da2148508985e5fe814d53a2" data-source="rctiplus++" tvg-id="rcti" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI - Server 4
+#EXTINF:-1 tvg-id="rcti" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI - Server 4
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
+#EXTINF:-1 tvg-id="rcti" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI - Server 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://stream.ambontv.my.id/play/rctiplus.m3u8?exp=1793876675&sign=305db10e7ef51adecc82dc2bc2700008fbefba251890d94454e0b18054df8937
 
 
 
@@ -71,7 +75,10 @@ https://stream.ambontv.my.id/play/mnctv.m3u8?exp=1793876675&sign=b831bf4e83bfa71
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rplus.inisemar.my.id/mnctv.m3u8
-
+#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV - Server 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://stream.ambontv.my.id/play/mnctvplus.m3u8?exp=1793876675&sign=96f17505e4b521060007e8e0912c2d6afbba8d7b0dcc637ac9c4ae51f2912155
 
 
 
@@ -91,7 +98,10 @@ https://stream.ambontv.my.id/play/gtv.m3u8?exp=1793876675&sign=0582703620974c9b0
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
-
+#EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV - Server 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://stream.ambontv.my.id/play/gtvplus.m3u8?exp=1793876675&sign=d01cd46bc394d6f04c2e47f8590edaf1d8839d99be78233f8136a01e42aaa875
 
 
 
@@ -111,8 +121,10 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inewstv
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews - Server 4
 #EXTVLCOPT:http-referrer=https://mnc.now/
 https://stream.ambontv.my.id/play/inews.m3u8?exp=1793876675&sign=493fb4cdd41db1ae375528a90094605e3a567dac08c424804eb4fab0e4649afe
-
-
+#EXTINF:-1 tvg-id="iNews.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews - Server 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://stream.ambontv.my.id/play/inewsplus.m3u8?exp=1793876675&sign=ff98651ff74f45e97d34569596790a350faaf5572865b3a96f61e582cd23171f
 
 
 
@@ -138,6 +150,11 @@ https://stream.ambontv.my.id/play/indosiar.mpd?exp=1793876675&sign=eff3e660b1276
 #EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="5ed23f92316a27e6f1e70044210ebf0f",INDOSIAR - Server 4
 http://wsline.cc/54124948A862926/oLqu2g35eC/1247933
 #EXTINF:-1 tvg-id="indosiar.id" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",INDOSIAR - Server 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://stream.ambontv.my.id/play/indosiarvid.mpd?exp=1793876675&sign=5b9a7daef8230bd9d71a58c111f8314c6157620176f713b1284dcd9afe488259
+#EXTINF:-1 tvg-id="indosiar.id" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",INDOSIAR - Server 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -216,11 +233,10 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="Nasional",SCTV - Server 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vidio123.mikrofast.web.id/vidio/204/index.mpd
+https://stream.ambontv.my.id/play/sctvvid.mpd?exp=1793876675&sign=c34e9b47656f8744702eb813a7ec61e464e85d452006c579738d3f6a5f2f5cbe
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="Nasional",SCTV - Server 2
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ogietv.biz.id/Dimas01/bara01/1322.m3u8
@@ -1123,6 +1139,11 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+#EXTINF:-1 tvg-name="vtv" tvg-logo="https://canal86.my.id/TV/img/vtv.png" group-title="Kids",VTV ᴴᴰ
+#EXTVLCOPT:http-referrer=https://flv.intechmedia.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://stream.ambontv.my.id/play/vtv.m3u8?exp=1793876675&sign=e40ec7653d91f22df80c4dc205423493f412fc864ff6cda5d40d5f6b817c8a31
+
 
 
 
@@ -2103,49 +2124,49 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/spotv1
-https://rplus.inisemar.my.id/spotv1.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/spotv1?exp=1793876675&sign=47a2e599e2734c62ea8a9f89caeffa8298e0a61bb2942289b92f3eb12516cba5
+https://stream.ambontv.my.id/play/spotv1.mpd?exp=1793876675&sign=47a2e599e2734c62ea8a9f89caeffa8298e0a61bb2942289b92f3eb12516cba5
 #EXTINF:-1 tvg-name="spotv2" tvg-id="SPOTV2" group-title="SPORTS" tvg-logo="https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/spotv2
-https://rplus.inisemar.my.id/spotv2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/spotv2?exp=1793876675&sign=cace4b804d88e5fda86a10ab5234fa9ffa57080dafd4839db53aa08930b6a561
+https://stream.ambontv.my.id/play/spotv2.mpd?exp=1793876675&sign=cace4b804d88e5fda86a10ab5234fa9ffa57080dafd4839db53aa08930b6a561
 #EXTINF:-1 tvg-name="bein1" group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_bein1_big1.png",beIN Sports 1 ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://rplus.inisemar.my.id/bein1.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein1?exp=1793876675&sign=13ca9d3b8992bd88d92bf28d5f843ce8950bd72d304618c8c7198568dbf5f36f
+https://stream.ambontv.my.id/play/bein1.mpd?exp=1793876675&sign=13ca9d3b8992bd88d92bf28d5f843ce8950bd72d304618c8c7198568dbf5f36f
 #EXTINF:-1 tvg-name="bein2" group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_bein2_big1.png",beIN Sports 2 ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://rplus.inisemar.my.id/bein2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein2?exp=1793876675&sign=2380f29665fac82dda06c928a79cadcf839e41332b7574f2a0f16c0a7dabf647
+https://stream.ambontv.my.id/play/bein2.mpd?exp=1793876675&sign=2380f29665fac82dda06c928a79cadcf839e41332b7574f2a0f16c0a7dabf647
 #EXTINF:-1 tvg-name="bein3" group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_bein3_big1.png",beIN Sports 3 ID
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://rplus.inisemar.my.id/bein3.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein3?exp=1793876675&sign=d24b123c486c9b8c9755ef3e47ea43c6e7c9024496f97d5bfeba1d88fa2562ed
+https://stream.ambontv.my.id/play/bein3.mpd?exp=1793876675&sign=d24b123c486c9b8c9755ef3e47ea43c6e7c9024496f97d5bfeba1d88fa2562ed
 #EXTINF:-1 tvg-name="bein4" tvg-id="beINSports4.id" tvg-name="beIN Sports 4" tvg-logo="https://iili.io/JhkQo22.png" group-title="SPORTS", beIN Sports 4 ID
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://rplus.inisemar.my.id/bein4.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein4?exp=1793876675&sign=7222d376b7e3d49490c93a86298d95497500ca872799094664c4da5e553bf62c
+https://stream.ambontv.my.id/play/bein4.mpd?exp=1793876675&sign=7222d376b7e3d49490c93a86298d95497500ca872799094664c4da5e553bf62c
 #EXTINF:-1 tvg-name="bein5" tvg-id="beINSports5.id" tvg-name="beIN Sports 5" tvg-logo="https://iili.io/JhkQzk7.png" group-title="SPORTS", beIN Sports 5 ID
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://rplus.inisemar.my.id/bein5.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/bein5?exp=1793876675&sign=6181a8e624e4df7450c0ce64a4f01249c9a129ef196042d2090e0b877671e19f
+https://stream.ambontv.my.id/play/bein5.mpd?exp=1793876675&sign=6181a8e624e4df7450c0ce64a4f01249c9a129ef196042d2090e0b877671e19f
 
 
 
