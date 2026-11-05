@@ -1088,7 +1088,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
 #EXTINF:0, tvg-id="MoonbugKids.uk@SD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moonbug%20kids.png" group-title="Kids", MOONBUG
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png",Mentari TV 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png",Mentari TV 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=drm
