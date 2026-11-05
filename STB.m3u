@@ -15,21 +15,6 @@ https://github.com/zuf1/faraga/raw/refs/heads/main/a.mp4
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://beetv.my.id/jabingan/vd.m3u8?ch=antv
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV - Server 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/antv2?exp=1793876675&sign=4b4d7cd5df1cd7739c75352d5ba69cf55f60cf15ae5f8b62bc097034c88c7377
-https://stream.ambontv.my.id/play/antv2.m3u8?exp=1793876675&sign=4b4d7cd5df1cd7739c75352d5ba69cf55f60cf15ae5f8b62bc097034c88c7377
-#EXTINF:-1 tvg-id="antv" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV - Server 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://stream.ambontv.my.id/play/antv.mpd?exp=1793876675&sign=79b68311ba1c5e559a1dba753162ede14d1b8d13aa3e7dcbd522b630cef826c7
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV - Server 4
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#https://beetv.my.id/jabingan/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
