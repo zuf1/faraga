@@ -101,7 +101,7 @@ http://line.4k-beast.top/ehZZtoP2AZdmcJJ/llCtpHFoxt/1505849
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTINF:-1 tvg-id="indosiar.id" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",INDOSIAR - Server 4
 http://wsline.cc/54124948A862926/oLqu2g35eC/1247933
 
