@@ -611,30 +611,6 @@ https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
 
-
-# kids #
-#EXTINF:-1 group-title="Kids" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg", DensPlay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
-#EXTINF:0, tvg-id="MoonbugKids.uk@SD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moonbug%20kids.png" group-title="Kids", MOONBUG
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-
-
-#### kidz kosong ####
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetkids.png",Biznet Kids
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dreamworks.png",DreamWorks
-#EXTINF:-1 tvg-id="BoomerangAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",Cartoonito
-#EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
-#EXTINF:-1 tvg-id="MAXKids.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",MAXKids
-#EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax
-#EXTINF:-1 tvg-id="DaVinciAsia.de@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_davinci.png",Da Vinci Learning
-#EXTINF:-1 tvg-id="DuniaAnak.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_duniaanak.png",Dunia Anak
-#EXTINF:-1 tvg-id="MyKidz.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png",My Kidz SD
-#EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nick.png",Nickelodeon
-
 # movie drakor #
 
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_234/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Movies",K-Drama
@@ -980,6 +956,68 @@ https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fub
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 
 
+
+
+#######                         LIGA INGGRIS                            ###############
+
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_qMqpD0_sArRHI5j5Jzw5ib4tL9aDnELw8Ke6WDBAw&s=10",STAR SPORTS SELECT 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
+
+#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_qMqpD0_sArRHI5j5Jzw5ib4tL9aDnELw8Ke6WDBAw&s=10",STAR SPORTS SELECT 1 FHD✅
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zzWHP2Ys-UJEp8QlnS-bePItLNbe4bBIHJ0ZYwhhz1VabbFGhQwhO2U&s=10",STAR SPORTS SELECT 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f285f7187996169.Y3JvcCw4MDgsNjMyLDE1OCww.jpg",Selcuksports
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f285f7187996169.Y3JvcCw4MDgsNjMyLDE1OCww.jpg",Selcuksports HD Tekrar
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f285f7187996169.Y3JvcCw4MDgsNjMyLDE1OCww.jpg",Selcuksports HD Premiere
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f285f7187996169.Y3JvcCw4MDgsNjMyLDE1OCww.jpg",Selcuksports HD Laliga
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f285f7187996169.Y3JvcCw4MDgsNjMyLDE1OCww.jpg",Selcuksports HD Basket
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/250px-Logo_bein_sports_1.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BEIN SPORTS 1 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/250px-Logo_bein_sports_2.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BEIN SPORTS 2 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/250px-Logo_bein_sports_3.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BEIN SPORTS 3 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985129&extension=ts&play_token=TPQ8WmP7DF
+
+#EXTINF:-1 ttvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1280px-Logo_bein_sports_4.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",BEIN SPORTS 4 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985130&extension=ts&play_token=oFFcF0hSHZ
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10",BEIN SPORTS 5 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEZPagRhhkh7XAed7lspQx7BEgM8CmMQdm-3hllESRD5stcUHxWIL3ft1&s=10",BEIN SPORTS 6 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985132&extension=ts&play_token=gADjKCMGWq
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVm_pVb_tTG_k_p56qJJjvzmgabWH9w_u_OJTPbGMWMA&s=10",BEIN SPORTS 7 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985133&extension=ts&play_token=vn0lYlSzrp
+
+
 # sport 2 #
 
 #EXTINF:-1 tvg-id="MAXSports.id@SD" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",MAXSports
@@ -1030,6 +1068,33 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/ind
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=730bf9b6641f4ca597fd0d2903ffc574:293446fd53697862b165984b860fd7b0
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
+
+
+
+
+# kids #
+#EXTINF:-1 group-title="Kids" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg", DensPlay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
+#EXTINF:0, tvg-id="MoonbugKids.uk@SD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moonbug%20kids.png" group-title="Kids", MOONBUG
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+
+
+#### kidz kosong ####
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetkids.png",Biznet Kids
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dreamworks.png",DreamWorks
+#EXTINF:-1 tvg-id="BoomerangAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",Cartoonito
+#EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
+#EXTINF:-1 tvg-id="MAXKids.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",MAXKids
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax
+#EXTINF:-1 tvg-id="DaVinciAsia.de@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_davinci.png",Da Vinci Learning
+#EXTINF:-1 tvg-id="DuniaAnak.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_duniaanak.png",Dunia Anak
+#EXTINF:-1 tvg-id="MyKidz.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png",My Kidz SD
+#EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nick.png",Nickelodeon
+
 
 
 
@@ -1985,84 +2050,7 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4f
 #EXTGRP:LIVE | LIGA INGGRIS
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
 
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f285f7187996169.Y3JvcCw4MDgsNjMyLDE1OCww.jpg",SELCUK SPORT
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
 
-#EXTINF:-1 tvg-uid="939d6b212ea0af97b7f755f73e64fa84" data-source="Vietnamch2" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png",Sky Sports Premier League FHD
-#EXTGRP:LIVE | LIGA INGGRIS
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_qMqpD0_sArRHI5j5Jzw5ib4tL9aDnELw8Ke6WDBAw&s=10",STAR SPORTS SELECT 1
-#EXTGRP:LIVE | LIGA INGGRIS
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
-
-#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_qMqpD0_sArRHI5j5Jzw5ib4tL9aDnELw8Ke6WDBAw&s=10",STAR SPORTS SELECT 1 FHD✅
-#EXTGRP:LIVE | LIGA INGGRIS
-##http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zzWHP2Ys-UJEp8QlnS-bePItLNbe4bBIHJ0ZYwhhz1VabbFGhQwhO2U&s=10",STAR SPORTS SELECT 2
-#EXTGRP:LIVE | LIGA INGGRIS
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
-
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/250px-Logo_bein_sports_1.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BeIN Sports TR 1
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/250px-Logo_bein_sports_2.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BeIN Sports TR 2
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/250px-Logo_bein_sports_3.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BeIN Sports TR 3
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1280px-Logo_bein_sports_4.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",BeIN Sports TR 4
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10",BeIN Sports TR 5
-#EXTGRP:LIVE | LIGA INGGRIS
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/250px-Logo_bein_sports_1.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BEIN SPORTS 1 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/250px-Logo_bein_sports_2.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BEIN SPORTS 2 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
-
-
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/250px-Logo_bein_sports_3.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",BEIN SPORTS 3 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985129&extension=ts&play_token=TPQ8WmP7DF
-
-#EXTINF:-1 ttvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1280px-Logo_bein_sports_4.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",BEIN SPORTS 4 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985130&extension=ts&play_token=oFFcF0hSHZ
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDBlvL4BLh3OBvzpY0r3m_GJdMsX0MLw4HteyXn3orw&s=10",BEIN SPORTS 5 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEZPagRhhkh7XAed7lspQx7BEgM8CmMQdm-3hllESRD5stcUHxWIL3ft1&s=10",BEIN SPORTS 6 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985132&extension=ts&play_token=gADjKCMGWq
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVm_pVb_tTG_k_p56qJJjvzmgabWH9w_u_OJTPbGMWMA&s=10",BEIN SPORTS 7 (BRN)
-#EXTGRP:LIVE | LIGA INGGRIS
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985133&extension=ts&play_token=vn0lYlSzrp
 
 
 #EXTINF:-1 tvg-name="spotv1" tvg-id="SPOTV1" group-title="SPORTS" tvg-logo="https://images.indihometv.com/assets/1719765710_88-SPOTV.png",SPOTV 1
