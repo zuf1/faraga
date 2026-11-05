@@ -55,7 +55,10 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://stream.ambontv.my.id/play/rctiplus.m3u8?exp=1793876675&sign=305db10e7ef51adecc82dc2bc2700008fbefba251890d94454e0b18054df8937
-
+#EXTINF:-1 tvg-id="rcti" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI - Server 6
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
@@ -79,6 +82,10 @@ https://rplus.inisemar.my.id/mnctv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://stream.ambontv.my.id/play/mnctvplus.m3u8?exp=1793876675&sign=96f17505e4b521060007e8e0912c2d6afbba8d7b0dcc637ac9c4ae51f2912155
+#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV - Server 6
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 
@@ -102,6 +109,10 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://stream.ambontv.my.id/play/gtvplus.m3u8?exp=1793876675&sign=d01cd46bc394d6f04c2e47f8590edaf1d8839d99be78233f8136a01e42aaa875
+#EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV - Server 6
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 
@@ -125,7 +136,10 @@ https://stream.ambontv.my.id/play/inews.m3u8?exp=1793876675&sign=493fb4cdd41db1a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://stream.ambontv.my.id/play/inewsplus.m3u8?exp=1793876675&sign=ff98651ff74f45e97d34569596790a350faaf5572865b3a96f61e582cd23171f
-
+#EXTINF:-1 tvg-id="iNews.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews - Server 6
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 tvg-id="IDXChannel.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
@@ -1168,10 +1182,15 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
-#EXTINF:-1 tvg-name="vtv" tvg-logo="https://canal86.my.id/TV/img/vtv.png" group-title="Kids",VTV ᴴᴰ
+
+#EXTINF:-1 tvg-name="vtv" tvg-logo="https://canal86.my.id/TV/img/vtv.png" group-title="Kids",VTV - Server 1
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-name="vtv" tvg-logo="https://canal86.my.id/TV/img/vtv.png" group-title="Kids",VTV - Server 2
 #EXTVLCOPT:http-referrer=https://flv.intechmedia.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://stream.ambontv.my.id/play/vtv.m3u8?exp=1793876675&sign=e40ec7653d91f22df80c4dc205423493f412fc864ff6cda5d40d5f6b817c8a31
+
 #EXTINF:-1 tvg-id="BoomerangAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",Cartoonito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
