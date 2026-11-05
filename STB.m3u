@@ -16,18 +16,16 @@ https://github.com/zuf1/faraga/raw/refs/heads/main/a.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://beetv.my.id/jabingan/vd.m3u8?ch=antv
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV - Server 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VidioPlayer/6.41.11
-#https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/antv2?exp=1793876675&sign=4b4d7cd5df1cd7739c75352d5ba69cf55f60cf15ae5f8b62bc097034c88c7377
+https://stream.ambontv.my.id/play/antv2.m3u8?exp=1793876675&sign=4b4d7cd5df1cd7739c75352d5ba69cf55f60cf15ae5f8b62bc097034c88c7377
 #EXTINF:-1 tvg-id="antv" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV - Server 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#https://cubmu.mikrofast.my.id/live/364/manifest.mpd
+https://stream.ambontv.my.id/play/antv.mpd?exp=1793876675&sign=79b68311ba1c5e559a1dba753162ede14d1b8d13aa3e7dcbd522b630cef826c7
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV - Server 4
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -43,10 +41,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/jabingan/rcti.m3u8?id=1
 #EXTINF:-1 tvg-id="rcti" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI - Server 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=VLC/3.0.18
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTVLCOPT:http-referrer=https://mnc.now/
+https://stream.ambontv.my.id/play/rcti.m3u8?exp=1793876675&sign=0a72397d2b23e8a68f55d9e2a018d848f105cd3fdcf11e35dbbd00908d2c45f5
 #EXTINF:-1 tvg-id="rcti" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI - Server 3
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -69,9 +65,8 @@ https://beetv.my.id/jabingan/rcti.m3u8?id=2
 https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=mnctv
 #https://stream.ambontv.my.id/play/mnctvplus.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV - Server 3
-#EXTVLCOPT:http-user-agent=VLC/3.0.18
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://allcutv.rctiplus.id/mnctv2023.m3u8
+#EXTVLCOPT:http-referrer=https://mnc.now/
+https://stream.ambontv.my.id/play/mnctv.m3u8?exp=1793876675&sign=b831bf4e83bfa713df69391e5d8cf4b0a29784cc6335bdd7a2249e4ba13a37d1
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV - Server 4
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -90,9 +85,8 @@ https://beetv.my.id/jabingan/rcti.m3u8?id=3
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rplus.inisemar.my.id/gtv.m3u8
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV - Server 3
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://allcutv.rctiplus.id/gtv2023.m3u8
+#EXTVLCOPT:http-referrer=https://mnc.now/
+https://stream.ambontv.my.id/play/gtv.m3u8?exp=1793876675&sign=0582703620974c9b016f46af3d0852651bc42abd3a9a9f8a9dfde0acfd1647db
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV - Server 4
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -115,9 +109,8 @@ https://rplus.inisemar.my.id/inews.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inewstv
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews - Server 4
-#EXTVLCOPT:http-user-agent=VLC/3.0.18
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTVLCOPT:http-referrer=https://mnc.now/
+https://stream.ambontv.my.id/play/inews.m3u8?exp=1793876675&sign=493fb4cdd41db1ae375528a90094605e3a567dac08c424804eb4fab0e4649afe
 
 
 
@@ -136,7 +129,12 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
 #EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="e8f6f209425ba26ab7b11a59cd283529",INDOSIAR - Server 2
 http://line.4k-beast.top/ehZZtoP2AZdmcJJ/llCtpHFoxt/1505849
 #EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="44b757a47fb549930f664cc47f264a4a",INDOSIAR - Server 3
-http://ilvip.net:80/live/0546556529/0546556529/259987.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/indosiar?exp=1793876675&sign=eff3e660b1276e0e1fec78912754720eb8eb46b806638934fe173aee79cfb43d
+https://stream.ambontv.my.id/play/indosiar.mpd?exp=1793876675&sign=eff3e660b1276e0e1fec78912754720eb8eb46b806638934fe173aee79cfb43d
 #EXTINF:-1 data-source="Manual" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" tvg-uid="5ed23f92316a27e6f1e70044210ebf0f",INDOSIAR - Server 4
 http://wsline.cc/54124948A862926/oLqu2g35eC/1247933
 #EXTINF:-1 tvg-id="indosiar.id" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",INDOSIAR - Server 5
@@ -180,9 +178,19 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 
 
 
-#EXTINF:-1 tvg-id="Moji.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji
+#EXTINF:-1 tvg-id="Moji.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji - Server 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1 tvg-id="Moji.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji - Server 2
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream.ambontv.my.id/play/moji.m3u8?exp=1793876675&sign=9cf399f558ab26b6e68269fc8f9e36b34b4ef27efd4ec6faa9add521b716b61c
+#EXTINF:-1 tvg-id="Moji.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji - Server 3
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+https://stream.ambontv.my.id/play/moji_2.m3u8?exp=1793876675&sign=da8a3121180b2e321131038fe262c10eb52911ed66349b513d5fb26ee123b421
+
+
+
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -246,19 +254,16 @@ https://cubmu.mikrofast.my.id/live/215/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="Nasional",TRANS TV - Server 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="Nasional",TRANS TV - Server 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://trans.diorx.my.id/transtv.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="Nasional",TRANS TV - Server 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="Nasional",TRANS TV - Server 3
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://stream.ambontv.my.id/play/transtv_2.m3u8?exp=1793876675&sign=86c85204d3c5760beea977618a4c3b1874125dfbb9c45292ce37a6ae97fc3f2a
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="Nasional",TRANS TV - Server 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -271,17 +276,20 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="trans.7" tvg-name="TRANS 7" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" group-title="Nasional",Trans 7 - Server 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://video.detik.com/
-https://trans.diorx.my.id/trans7.m3u8
-#EXTINF:-1 tvg-id="trans.7" tvg-name="TRANS 7" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" group-title="Nasional",Trans 7 - Server 2
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-https://bandeltv.xyz/2026/20detik/index.m3u8?id=trans7
-#EXTINF:-1 tvg-id="trans.7" tvg-name="TRANS 7" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" group-title="Nasional",Trans 7 - Server 3
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trans.7" tvg-name="TRANS 7" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" group-title="Nasional",Trans 7 - Server 2
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://stream.ambontv.my.id/play/trans7_2.m3u8?exp=1793876675&sign=a4e40f1f34d1c5656b88b9c239d826146d0068c9e2e215a9b01f1719ed05160f
+#EXTINF:-1 tvg-id="trans.7" tvg-name="TRANS 7" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" group-title="Nasional",Trans 7 - Server 3
+#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
+https://bandeltv.xyz/2026/20detik/index.m3u8?id=trans7
+#EXTINF:-1 tvg-id="trans.7" tvg-name="TRANS 7" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" group-title="Nasional",Trans 7 - Server 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://trans.diorx.my.id/trans7.m3u8
 
 
 
@@ -298,13 +306,19 @@ https://flv.intechmedia.net/live/ch109.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+#EXTINF:-1 tvg-id="tvOne.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne - Server 4
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream.ambontv.my.id/play/tvone.m3u8?exp=1793876675&sign=28388b8e92144620594adcb0103c9e42c80f56e7cf41538dbcef9dfc8458fd1d
 
-
-#EXTINF:-1 tvg-id=".id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_.png",
+#EXTINF:-1 tvg-id=".id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/tvri-id.png",TVRI NASIONAL - Server 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://ott-balancer..go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 tvg-id="World.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL--World_2025_11_03_11_11_10.jpg", World
-https://ott-balancer..go.id/live/eds/World/hls/World.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
+#EXTINF:-1 tvg-id=".id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/tvri-id.png",TVRI NASIONAL - Server 2
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 tvg-id="World.id@SD" group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMttM8TJZr2gQTIN0IFj1Lh2Et_lXiXbWTN_YAEByqg&s=10",TVRI  World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
 
