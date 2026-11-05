@@ -678,6 +678,12 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707
 #EXTINF:-1 group-title="Movies" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-amor183x174@3x@3x.jpg",WeDoTv Amor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h68/wedotv_amor.m3u8
+#EXTINF:-1 tvg-id="0_meap4fi2" tvg-name="Warner TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_meap4fi2/banner_xxxhdpi.webp" group-title="Movies",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_meap4fi2&exp=1793865875&sign=ec6cfee4b67d10f178b02d4a0b4ba9044f6344a070ce3e975994291b76fdec28
+https://maxstreamtv.memektv.my.id/stream/0_meap4fi2.mpd?exp=1793865875&sign=ec6cfee4b67d10f178b02d4a0b4ba9044f6344a070ce3e975994291b76fdec28
 
 # sony one movie #
 
@@ -709,7 +715,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/anamorphic-logo/400x200/lg1_400x200_white_1.png" group-title="Movies",LG 1 +1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11874
 
-##### Music #####
+
+
+#####                          Music                            #####
+
+
 
 #EXTINF:-1 tvg-id="DanceTelevision.nl@SD" group-title="Music" tvg-logo="https://pic.dens.tv/tv_183x174/1701423510_square.jpg",Dance TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -722,6 +732,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h306/stream.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="StingrayClassica.ca@SD" group-title="Music" tvg-logo="https://pic.dens.tv/tv_183x174/1701423589_square.jpg",Stingray Classica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h304/stream.m3u8?app_type=web&userid=lite&chname=Stingray_Classica
+#EXTINF:-1 tvg-id="0_qe3k01sq" tvg-name="Musik Indonesia" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_qe3k01sq/banner_xxxhdpi.webp" group-title="Music",Musik Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_qe3k01sq&exp=1793865875&sign=9fe345d455c2fe392b92cfcd5bcafd4d70f31549ffbe3dd8f55806484990f629
+https://maxstreamtv.memektv.my.id/stream/0_qe3k01sq.mpd?exp=1793865875&sign=9fe345d455c2fe392b92cfcd5bcafd4d70f31549ffbe3dd8f55806484990f629
+
 
 
 
@@ -1179,13 +1196,19 @@ https://maxstreamtv.memektv.my.id/stream/0_3wiy77wh.mpd?exp=1793865875&sign=934c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_h4cdmhi1&exp=1793865875&sign=82110b439f335558465cd6900f97255ea7b6f3d3d6794d3c34caafc306d10fec
 https://maxstreamtv.memektv.my.id/stream/0_h4cdmhi1.mpd?exp=1793865875&sign=82110b439f335558465cd6900f97255ea7b6f3d3d6794d3c34caafc306d10fec
+#EXTINF:-1 tvg-id="MyKidz.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png",My Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_1qolvnju&exp=1793865875&sign=9bd1caf9f41890d6c031c5ee253c2833a8a2ecd341a32565f78bf6ab0dfb0a14
+https://maxstreamtv.memektv.my.id/stream/0_1qolvnju.mpd?exp=1793865875&sign=9bd1caf9f41890d6c031c5ee253c2833a8a2ecd341a32565f78bf6ab0dfb0a1
+
 
 
 #### kidz kosong ####
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetkids.png",Biznet Kids
 #EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
 #EXTINF:-1 tvg-id="DaVinciAsia.de@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_davinci.png",Da Vinci Learning
-#EXTINF:-1 tvg-id="MyKidz.id@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png",My Kidz SD
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nick.png",Nickelodeon
 
@@ -2148,18 +2171,33 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4f
 
 
 
-#EXTINF:-1 tvg-name="spotv1" tvg-id="SPOTV1" group-title="SPORTS" tvg-logo="https://images.indihometv.com/assets/1719765710_88-SPOTV.png",SPOTV 1
+#EXTINF:-1 tvg-name="spotv1" tvg-id="SPOTV1" group-title="SPORTS" tvg-logo="https://images.indihometv.com/assets/1719765710_88-SPOTV.png",SPOTV 1 - Server 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/spotv1?exp=1793876675&sign=47a2e599e2734c62ea8a9f89caeffa8298e0a61bb2942289b92f3eb12516cba5
 https://stream.ambontv.my.id/play/spotv1.mpd?exp=1793876675&sign=47a2e599e2734c62ea8a9f89caeffa8298e0a61bb2942289b92f3eb12516cba5
-#EXTINF:-1 tvg-name="spotv2" tvg-id="SPOTV2" group-title="SPORTS" tvg-logo="https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png",SPOTV 2
+
+#EXTINF:-1 tvg-name="spotv1" tvg-id="SPOTV1" group-title="SPORTS" tvg-logo="https://images.indihometv.com/assets/1719765710_88-SPOTV.png",SPOTV 1 - Server 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_e9m9jzif&exp=1793865875&sign=d0c65f951689710702ccad492ccc6ab961ffda4ee4ca68e7fb8ac33c29b7ece3
+https://maxstreamtv.memektv.my.id/stream/0_e9m9jzif.mpd?exp=1793865875&sign=d0c65f951689710702ccad492ccc6ab961ffda4ee4ca68e7fb8ac33c29b7ece3
+
+#EXTINF:-1 tvg-name="spotv2" tvg-id="SPOTV2" group-title="SPORTS" tvg-logo="https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png",SPOTV 2 - Server 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stream.ambontv.my.id/drm/spotv2?exp=1793876675&sign=cace4b804d88e5fda86a10ab5234fa9ffa57080dafd4839db53aa08930b6a561
 https://stream.ambontv.my.id/play/spotv2.mpd?exp=1793876675&sign=cace4b804d88e5fda86a10ab5234fa9ffa57080dafd4839db53aa08930b6a561
+#EXTINF:-1 tvg-name="spotv2" tvg-id="SPOTV2" group-title="SPORTS" tvg-logo="https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png",SPOTV 2 - Server 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_mubcipck&exp=1793865875&sign=d2c83ffc89975b638ecaabdbc8228824ea2d5adf3ea71ad1ce6f2142614e94c7
+https://maxstreamtv.memektv.my.id/stream/0_mubcipck.mpd?exp=1793865875&sign=d2c83ffc89975b638ecaabdbc8228824ea2d5adf3ea71ad1ce6f2142614e94c7
+
 #EXTINF:-1 tvg-name="bein1" group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_bein1_big1.png",beIN Sports 1 ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
