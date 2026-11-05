@@ -948,7 +948,7 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&ex
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f285f7187996169.Y3JvcCw4MDgsNjMyLDE1OCww.jpg",Selcuksports
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
+#https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f285f7187996169.Y3JvcCw4MDgsNjMyLDE1OCww.jpg",Selcuksports HD Tekrar
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
