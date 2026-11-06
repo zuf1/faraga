@@ -1451,14 +1451,14 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/-_ly-445iJqHyLPPlWM2E1MhOYDc-w6vHiVJdtl_eh2Z5GaEmbtUpeozWQIu6EZmiWpWqOQ8LzeYkkdwp22UnNU" group-title="Sports+",PBTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/-_ly-445iJqHyLPPlWM2E1MhOYDc-w6vHiVJdtl_eh2Z5GaEmbtUpeozWQIu6EZmiWpWqOQ8LzeYkkdwp22UnNU" group-title="Sports +",PBTV
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/04/14111902/Unbeaten.png" group-title="Sports+",UNBEATEN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/04/14111902/Unbeaten.png" group-title="Sports +",UNBEATEN
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #========================================================  ====================================================================
@@ -1466,7 +1466,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://images.seeklogo.com/logo-png/7/1/italia-1-logo-png_seeklogo-74063.png",ITALIA 1
+#EXTINF:-1 group-title="Sports +" tvg-logo="https://images.seeklogo.com/logo-png/7/1/italia-1-logo-png_seeklogo-74063.png",ITALIA 1
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
 
 #========================================================  ====================================================================
@@ -1478,7 +1478,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-#EXTINF:-1 tvg-id="1191" tvg-name="dd-sports-1-0" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" group-title="Sports+",DD SPORTS
+#EXTINF:-1 tvg-id="1191" tvg-name="dd-sports-1-0" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" group-title="Sports +",DD SPORTS
 https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1486,7 +1486,7 @@ https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://img1.wsimg.com/isteam/ip/d08bca69-c528-4050-938f-bd511aa0a61f/blob-0004.png", ACTION SPORTS 1
+#EXTINF:-1 group-title="Sports +" tvg-logo="https://img1.wsimg.com/isteam/ip/d08bca69-c528-4050-938f-bd511aa0a61f/blob-0004.png", ACTION SPORTS 1
 https://ottlive.dishhome.com.np/protected/vVnVkZ4Bnu3lGwDQJxH-/dash/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1494,13 +1494,13 @@ https://ottlive.dishhome.com.np/protected/vVnVkZ4Bnu3lGwDQJxH-/dash/manifest.mpd
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://img1.wsimg.com/isteam/ip/d08bca69-c528-4050-938f-bd511aa0a61f/blob-0004.png", ACTION SPORTS 2
+#EXTINF:-1 group-title="Sports +" tvg-logo="https://img1.wsimg.com/isteam/ip/d08bca69-c528-4050-938f-bd511aa0a61f/blob-0004.png", ACTION SPORTS 2
 https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd
 
 
 #========================================================  ====================================================================
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEBZhnmrph8HJToIByYifUcr8F67r4gtDF--u7-VN5GqITTOR8Cip1ZhU&s=10" group-title="Sports+", Kanal 1 🇸🇰
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEBZhnmrph8HJToIByYifUcr8F67r4gtDF--u7-VN5GqITTOR8Cip1ZhU&s=10" group-title="Sports +", Kanal 1 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1508,7 +1508,7 @@ https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2B_Extra_1.png" group-title="Sports+",Kanal 1 Extra 🇸🇰
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2B_Extra_1.png" group-title="Sports +",Kanal 1 Extra 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
