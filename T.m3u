@@ -105,7 +105,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white.png" group-title="MOVIES & ENTERTAINMENT NON SUB IND",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957
 
-#EXTINF:-1 tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Showcase_Logo_2015.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="MOVIES & ENTERTAINMENT NON SUB IND",SHOWCASE 
+#EXTINF:-1 tvg-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlU_4KNAC68UVskDkEjgQrRjWj2yjKzlW2JO3Z27XxHm328k9jhosZnmY&s=10" group-title="MOVIES & ENTERTAINMENT NON SUB IND",SHOWCASE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
 https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
