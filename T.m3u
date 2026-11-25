@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PersianaTeen.fr" group-title="MOVIES & ENTERTAINMENT NON SUB IND" tvg-name="Persiana Teen",Persiana Teen
-https://kphls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title="MOVIES & ENTERTAINMENT NON SUB IND",LG 1 Film
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
