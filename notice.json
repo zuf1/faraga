@@ -3,7 +3,10 @@
   "enabled": true,
   "type": "info",
   "title": "Selamat Datang di ZET TV",
-  "message": "ZET TV v3.0.2 membawa perbaikan bug dan peningkatan stabilitas pada mode STB/Android TV. Nikmati tontonan berkualitas!",
+  "message": "ZET TV v3.0.2 membawa perbaikan bug dan peningkatan stabilitas pada mode STB/Android TV. Gunakan kolom di bawah untuk mendukung kami!",
   "version": "3.0.2",
-  "url": "https://t.me/ZETNIA"
+  "url": "",
+  "traktirUrl": "https://saweria.co/ZETNIA",
+  "telegramUrl": "https://t.me/ZETNIA",
+  "updateUrl": "https://github.com/zuf1/zettv-android/releases/latest"
 }
